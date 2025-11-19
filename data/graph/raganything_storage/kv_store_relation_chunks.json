@@ -1,0 +1,65 @@
+{
+  "Chawla et al.<SEP>Fuzzy Logic based system": {
+    "chunk_ids": [
+      "chunk-c2973796c324e403d47ff69ddbd820cb"
+    ],
+    "count": 1,
+    "create_time": 1762636341,
+    "update_time": 1762636341,
+    "_id": "Chawla et al.<SEP>Fuzzy Logic based system"
+  },
+  "GitHub<SEP>Issue Report": {
+    "chunk_ids": [
+      "chunk-b4b083475e833e19dd940e33120eff49"
+    ],
+    "count": 1,
+    "create_time": 1762636341,
+    "update_time": 1762636341,
+    "_id": "GitHub<SEP>Issue Report"
+  },
+  "Issue Classification<SEP>Transformer-based Model": {
+    "chunk_ids": [
+      "chunk-b4b083475e833e19dd940e33120eff49"
+    ],
+    "count": 1,
+    "create_time": 1762636341,
+    "update_time": 1762636341,
+    "_id": "Issue Classification<SEP>Transformer-based Model"
+  },
+  "Bug<SEP>Issue Report": {
+    "chunk_ids": [
+      "chunk-b4b083475e833e19dd940e33120eff49"
+    ],
+    "count": 1,
+    "create_time": 1762636341,
+    "update_time": 1762636341,
+    "_id": "Bug<SEP>Issue Report"
+  },
+  "RoBERTa<SEP>Transformer-based Model": {
+    "chunk_ids": [
+      "chunk-b4b083475e833e19dd940e33120eff49"
+    ],
+    "count": 1,
+    "create_time": 1762636341,
+    "update_time": 1762636341,
+    "_id": "RoBERTa<SEP>Transformer-based Model"
+  },
+  "Chawla et al.<SEP>HTTPClient, Jackrabbit, and Lucene": {
+    "chunk_ids": [
+      "chunk-c2973796c324e403d47ff69ddbd820cb"
+    ],
+    "count": 1,
+    "create_time": 1762636341,
+    "update_time": 1762636341,
+    "_id": "Chawla et al.<SEP>HTTPClient, Jackrabbit, and Lucene"
+  },
+  "Chawla et al.<SEP>F-1 score": {
+    "chunk_ids": [
+      "chunk-c2973796c324e403d47ff69ddbd820cb"
+    ],
+    "count": 1,
+    "create_time": 1762636341,
+    "update_time": 1762636341,
+    "_id": "Chawla et al.<SEP>F-1 score"
+  }
+}

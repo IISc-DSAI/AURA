@@ -1,0 +1,41 @@
+{
+  "doc-abb724854e3aea647545a5fb3fa861b4": {
+    "status": "processed",
+    "chunks_count": 22,
+    "chunks_list": [
+      "chunk-e42ca0c75c10a0307b69e6501197a0a3",
+      "chunk-b4b083475e833e19dd940e33120eff49",
+      "chunk-c2973796c324e403d47ff69ddbd820cb",
+      "chunk-02f5ff192bac985daf3b8c8b65f3577f",
+      "chunk-7b2fe80e5be1b63614aae2faab5c16cd",
+      "chunk-4f451daaefdba487e69c45732cf6f9a5",
+      "chunk-8c8cef224399426073175aaeaf1b2143",
+      "chunk-113d9fad8dae4122ba11cdc4471817cf",
+      "chunk-e21c9f03777f97b1c769d40045c4fb6f",
+      "chunk-606004bda14ff333243e15d236785aec",
+      "chunk-7255a4db9ea98458afae7848b6f9d7bd",
+      "chunk-826774d1fade6f54d767df535aef4adb",
+      "chunk-3592f65717df494dd148b907d8b5a446",
+      "chunk-7d57bbcbda778268aaed3550310c8c61",
+      "chunk-8af302727f7bee7137fd6c686c2bf223",
+      "chunk-a29416a7e3aef43f24a9ab19e3665112",
+      "chunk-738d8975c0fd394f3ad86c6e47f2c837",
+      "chunk-0503b9cff8585d18d3c74d988806f900",
+      "chunk-4ff801203138a10de021be3acaebe894",
+      "chunk-eba9b95cdc4c3ee9638d12437e55cfea",
+      "chunk-f486808058f4365b598bba0c8214a67a",
+      "chunk-eb6fe8008751caaaea3e81ac978d47e7"
+    ],
+    "content_summary": "Automatic Issue Classifier: A Transfer Learning Framework for Classifying Issue Reports \n\nAnas Nadeem   \nDept. of Computer Science   \nNorth Dakota State University   \nFargo, USA   \nanas.nadeem@ndsu.edu \n\nMuhammad Usman Sarwar Dept. of Computer Scienc...",
+    "content_length": 31527,
+    "created_at": "2025-11-08T21:06:20.079621+00:00",
+    "updated_at": "2025-11-08T21:21:12+00:00",
+    "file_path": "AIC.pdf",
+    "track_id": "insert_20251108_210620_9a14ce41",
+    "metadata": {
+      "processing_start_time": 1762635980,
+      "processing_end_time": 1762636341
+    },
+    "multimodal_processed": true
+  }
+}

@@ -1,0 +1,346 @@
+{
+  "Chawla et al.": {
+    "chunk_ids": [
+      "chunk-c2973796c324e403d47ff69ddbd820cb"
+    ],
+    "count": 1,
+    "create_time": 1762636340,
+    "update_time": 1762636340,
+    "_id": "Chawla et al."
+  },
+  "Fazayeli et al.": {
+    "chunk_ids": [
+      "chunk-c2973796c324e403d47ff69ddbd820cb"
+    ],
+    "count": 1,
+    "create_time": 1762636340,
+    "update_time": 1762636340,
+    "_id": "Fazayeli et al."
+  },
+  "Devlin et al.": {
+    "chunk_ids": [
+      "chunk-c2973796c324e403d47ff69ddbd820cb"
+    ],
+    "count": 1,
+    "create_time": 1762636340,
+    "update_time": 1762636340,
+    "_id": "Devlin et al."
+  },
+  "Liu et al.": {
+    "chunk_ids": [
+      "chunk-c2973796c324e403d47ff69ddbd820cb"
+    ],
+    "count": 1,
+    "create_time": 1762636340,
+    "update_time": 1762636340,
+    "_id": "Liu et al."
+  },
+  "Bahdanau et al.": {
+    "chunk_ids": [
+      "chunk-c2973796c324e403d47ff69ddbd820cb"
+    ],
+    "count": 1,
+    "create_time": 1762636340,
+    "update_time": 1762636340,
+    "_id": "Bahdanau et al."
+  },
+  "Attention-based Networks": {
+    "chunk_ids": [
+      "chunk-c2973796c324e403d47ff69ddbd820cb"
+    ],
+    "count": 1,
+    "create_time": 1762636340,
+    "update_time": 1762636340,
+    "_id": "Attention-based Networks"
+  },
+  "Machine Translation": {
+    "chunk_ids": [
+      "chunk-c2973796c324e403d47ff69ddbd820cb"
+    ],
+    "count": 1,
+    "create_time": 1762636340,
+    "update_time": 1762636340,
+    "_id": "Machine Translation"
+  },
+  "Transformer-architecture": {
+    "chunk_ids": [
+      "chunk-c2973796c324e403d47ff69ddbd820cb"
+    ],
+    "count": 1,
+    "create_time": 1762636340,
+    "update_time": 1762636340,
+    "_id": "Transformer-architecture"
+  },
+  "BERT": {
+    "chunk_ids": [
+      "chunk-c2973796c324e403d47ff69ddbd820cb"
+    ],
+    "count": 1,
+    "create_time": 1762636340,
+    "update_time": 1762636340,
+    "_id": "BERT"
+  },
+  "RoBERTa": {
+    "chunk_ids": [
+      "chunk-c2973796c324e403d47ff69ddbd820cb",
+      "chunk-b4b083475e833e19dd940e33120eff49"
+    ],
+    "count": 2,
+    "create_time": 1762636340,
+    "update_time": 1762636340,
+    "_id": "RoBERTa"
+  },
+  "IEEE Spectrum Top Programming Languages list": {
+    "chunk_ids": [
+      "chunk-c2973796c324e403d47ff69ddbd820cb"
+    ],
+    "count": 1,
+    "create_time": 1762636340,
+    "update_time": 1762636340,
+    "_id": "IEEE Spectrum Top Programming Languages list"
+  },
+  "GitHub": {
+    "chunk_ids": [
+      "chunk-c2973796c324e403d47ff69ddbd820cb",
+      "chunk-b4b083475e833e19dd940e33120eff49"
+    ],
+    "count": 2,
+    "create_time": 1762636340,
+    "update_time": 1762636340,
+    "_id": "GitHub"
+  },
+  "GitHub Search and Data API 6": {
+    "chunk_ids": [
+      "chunk-c2973796c324e403d47ff69ddbd820cb"
+    ],
+    "count": 1,
+    "create_time": 1762636340,
+    "update_time": 1762636340,
+    "_id": "GitHub Search and Data API 6"
+  },
+  "Laravel": {
+    "chunk_ids": [
+      "chunk-c2973796c324e403d47ff69ddbd820cb"
+    ],
+    "count": 1,
+    "create_time": 1762636340,
+    "update_time": 1762636340,
+    "_id": "Laravel"
+  },
+  "Kubernetes": {
+    "chunk_ids": [
+      "chunk-c2973796c324e403d47ff69ddbd820cb"
+    ],
+    "count": 1,
+    "create_time": 1762636340,
+    "update_time": 1762636340,
+    "_id": "Kubernetes"
+  },
+  "Linux": {
+    "chunk_ids": [
+      "chunk-c2973796c324e403d47ff69ddbd820cb"
+    ],
+    "count": 1,
+    "create_time": 1762636340,
+    "update_time": 1762636340,
+    "_id": "Linux"
+  },
+  "Spark": {
+    "chunk_ids": [
+      "chunk-c2973796c324e403d47ff69ddbd820cb"
+    ],
+    "count": 1,
+    "create_time": 1762636341,
+    "update_time": 1762636341,
+    "_id": "Spark"
+  },
+  "Issue Report": {
+    "chunk_ids": [
+      "chunk-b4b083475e833e19dd940e33120eff49"
+    ],
+    "count": 1,
+    "create_time": 1762636341,
+    "update_time": 1762636341,
+    "_id": "Issue Report"
+  },
+  "Transformer-based Model": {
+    "chunk_ids": [
+      "chunk-b4b083475e833e19dd940e33120eff49"
+    ],
+    "count": 1,
+    "create_time": 1762636341,
+    "update_time": 1762636341,
+    "_id": "Transformer-based Model"
+  },
+  "Bug": {
+    "chunk_ids": [
+      "chunk-b4b083475e833e19dd940e33120eff49"
+    ],
+    "count": 1,
+    "create_time": 1762636341,
+    "update_time": 1762636341,
+    "_id": "Bug"
+  },
+  "Enhancement": {
+    "chunk_ids": [
+      "chunk-b4b083475e833e19dd940e33120eff49"
+    ],
+    "count": 1,
+    "create_time": 1762636341,
+    "update_time": 1762636341,
+    "_id": "Enhancement"
+  },
+  "Question": {
+    "chunk_ids": [
+      "chunk-b4b083475e833e19dd940e33120eff49"
+    ],
+    "count": 1,
+    "create_time": 1762636341,
+    "update_time": 1762636341,
+    "_id": "Question"
+  },
+  "Issue Classification": {
+    "chunk_ids": [
+      "chunk-b4b083475e833e19dd940e33120eff49"
+    ],
+    "count": 1,
+    "create_time": 1762636341,
+    "update_time": 1762636341,
+    "_id": "Issue Classification"
+  },
+  "Multi-label Classification": {
+    "chunk_ids": [
+      "chunk-b4b083475e833e19dd940e33120eff49"
+    ],
+    "count": 1,
+    "create_time": 1762636341,
+    "update_time": 1762636341,
+    "_id": "Multi-label Classification"
+  },
+  "F1-Score": {
+    "chunk_ids": [
+      "chunk-b4b083475e833e19dd940e33120eff49"
+    ],
+    "count": 1,
+    "create_time": 1762636341,
+    "update_time": 1762636341,
+    "_id": "F1-Score"
+  },
+  "GitHub Issue Data Set": {
+    "chunk_ids": [
+      "chunk-b4b083475e833e19dd940e33120eff49"
+    ],
+    "count": 1,
+    "create_time": 1762636341,
+    "update_time": 1762636341,
+    "_id": "GitHub Issue Data Set"
+  },
+  "Top 200 Repositories": {
+    "chunk_ids": [
+      "chunk-b4b083475e833e19dd940e33120eff49"
+    ],
+    "count": 1,
+    "create_time": 1762636341,
+    "update_time": 1762636341,
+    "_id": "Top 200 Repositories"
+  },
+  "55 Popular Languages": {
+    "chunk_ids": [
+      "chunk-b4b083475e833e19dd940e33120eff49"
+    ],
+    "count": 1,
+    "create_time": 1762636341,
+    "update_time": 1762636341,
+    "_id": "55 Popular Languages"
+  },
+  "Automatic Issue Classifier (AIC)": {
+    "chunk_ids": [
+      "chunk-b4b083475e833e19dd940e33120eff49"
+    ],
+    "count": 1,
+    "create_time": 1762636341,
+    "update_time": 1762636341,
+    "_id": "Automatic Issue Classifier (AIC)"
+  },
+  "Software Development Team": {
+    "chunk_ids": [
+      "chunk-b4b083475e833e19dd940e33120eff49"
+    ],
+    "count": 1,
+    "create_time": 1762636341,
+    "update_time": 1762636341,
+    "_id": "Software Development Team"
+  },
+  "Software Maintenance Process": {
+    "chunk_ids": [
+      "chunk-b4b083475e833e19dd940e33120eff49"
+    ],
+    "count": 1,
+    "create_time": 1762636341,
+    "update_time": 1762636341,
+    "_id": "Software Maintenance Process"
+  },
+  "Effective Development Documentation": {
+    "chunk_ids": [
+      "chunk-b4b083475e833e19dd940e33120eff49"
+    ],
+    "count": 1,
+    "create_time": 1762636341,
+    "update_time": 1762636341,
+    "_id": "Effective Development Documentation"
+  },
+  "Project Team": {
+    "chunk_ids": [
+      "chunk-b4b083475e833e19dd940e33120eff49"
+    ],
+    "count": 1,
+    "create_time": 1762636341,
+    "update_time": 1762636341,
+    "_id": "Project Team"
+  },
+  "Code-base": {
+    "chunk_ids": [
+      "chunk-b4b083475e833e19dd940e33120eff49"
+    ],
+    "count": 1,
+    "create_time": 1762636341,
+    "update_time": 1762636341,
+    "_id": "Code-base"
+  },
+  "Resource Allocation Process": {
+    "chunk_ids": [
+      "chunk-b4b083475e833e19dd940e33120eff49"
+    ],
+    "count": 1,
+    "create_time": 1762636341,
+    "update_time": 1762636341,
+    "_id": "Resource Allocation Process"
+  },
+  "Fuzzy Logic based system": {
+    "chunk_ids": [
+      "chunk-c2973796c324e403d47ff69ddbd820cb"
+    ],
+    "count": 1,
+    "create_time": 1762636341,
+    "update_time": 1762636341,
+    "_id": "Fuzzy Logic based system"
+  },
+  "HTTPClient, Jackrabbit, and Lucene": {
+    "chunk_ids": [
+      "chunk-c2973796c324e403d47ff69ddbd820cb"
+    ],
+    "count": 1,
+    "create_time": 1762636341,
+    "update_time": 1762636341,
+    "_id": "HTTPClient, Jackrabbit, and Lucene"
+  },
+  "F-1 score": {
+    "chunk_ids": [
+      "chunk-c2973796c324e403d47ff69ddbd820cb"
+    ],
+    "count": 1,
+    "create_time": 1762636341,
+    "update_time": 1762636341,
+    "_id": "F-1 score"
+  }
+}

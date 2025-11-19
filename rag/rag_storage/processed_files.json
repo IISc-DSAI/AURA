@@ -1,0 +1,17 @@
+{
+  "/home/ubuntu/mega_folder/data/raw_pdfs/AIC.pdf": {
+    "hash": "f0025db1d8282353c09caf3eef21ce4c",
+    "processed_at": 86834.302874202,
+    "file_size": 278127
+  },
+  "/home/ubuntu/mega_folder/data/raw_pdfs/1 models.pdf": {
+    "hash": "d22f5cfba84b834394b7cf8b8b20f2b5",
+    "processed_at": 95296.942965462,
+    "file_size": 1246208
+  },
+  "/home/ubuntu/mega_folder/data/raw_pdfs/7066311.pdf": {
+    "hash": "27bf522fa521fcd6781669abd51ce113",
+    "processed_at": 125866.713899702,
+    "file_size": 1022389
+  }
+}

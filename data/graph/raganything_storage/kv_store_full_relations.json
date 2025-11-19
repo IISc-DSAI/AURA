@@ -1,0 +1,449 @@
+{
+  "doc-abb724854e3aea647545a5fb3fa861b4": {
+    "relation_pairs": [
+      [
+        "TABLE III EVALUATION RESULTS OF OUR PROPOSED APPROACH",
+        "table_d41d8cd98f00b204e9800998ecf8427e"
+      ],
+      [
+        "Bug",
+        "Issue Tracking System"
+      ],
+      [
+        "getchar",
+        "table_d41d8cd98f00b204e9800998ecf8427e"
+      ],
+      [
+        "GitHub Issue Report Classification Approach (discarded)",
+        "RoBERTa"
+      ],
+      [
+        "GitHub Issue Report Classification Approach (discarded)",
+        "Software Maintenance"
+      ],
+      [
+        "Fig. 1",
+        "image_d41d8cd98f00b204e9800998ecf8427e"
+      ],
+      [
+        "/home/ubuntu/agentic_rag/data/graph/raganything_storage/AIC/auto/images/ead42c6eb9236478a92f2d7d2dbf3dce50b012f3aaa2adb90814bcaff1461644.jpg",
+        "image_d41d8cd98f00b204e9800998ecf8427e"
+      ],
+      [
+        "Image Path",
+        "Table Analysis"
+      ],
+      [
+        "Automatic Issue Classifier",
+        "image_d41d8cd98f00b204e9800998ecf8427e"
+      ],
+      [
+        "Footnotes",
+        "image_d41d8cd98f00b204e9800998ecf8427e"
+      ],
+      [
+        "Approximately 55,000 Issue Reports",
+        "GitHub Issue Report Classification Approach (discarded)"
+      ],
+      [
+        "Issue Report",
+        "Question"
+      ],
+      [
+        "Enhancement",
+        "GitHub Issue Report Classification Approach (discarded)"
+      ],
+      [
+        "Category",
+        "table_d41d8cd98f00b204e9800998ecf8427e"
+      ],
+      [
+        "GitHub Issue Report Classification Approach (discarded)",
+        "Inconsistent Labels"
+      ],
+      [
+        "Automatic Issue Classifier",
+        "Repository"
+      ],
+      [
+        "AIC",
+        "image_d41d8cd98f00b204e9800998ecf8427e"
+      ],
+      [
+        "GitHub Issue Report Classification Approach (discarded)",
+        "Issue Tracking System"
+      ],
+      [
+        "USBhost",
+        "scanf()"
+      ],
+      [
+        "Issue Report",
+        "image_d41d8cd98f00b204e9800998ecf8427e"
+      ],
+      [
+        "/home/ubuntu/agentic_rag/data/graph/raganything_storage/AIC/auto/images/ead42c6eb9236478a92f2d7d2dbf3dce50b012f3aaa2adb90814bcaff1461644.jpg",
+        "Image Content Analysis"
+      ],
+      [
+        "Image Path",
+        "table_d41d8cd98f00b204e9800998ecf8427e"
+      ],
+      [
+        "USBhost",
+        "kbhit"
+      ],
+      [
+        "Footnotes",
+        "Table Analysis"
+      ],
+      [
+        "GitHub Issue Report Classification Approach (discarded)",
+        "Transformer-Based Model"
+      ],
+      [
+        "Repository",
+        "image_d41d8cd98f00b204e9800998ecf8427e"
+      ],
+      [
+        "USBhost",
+        "getche()"
+      ],
+      [
+        "Automatic Issue Classifier",
+        "Image Path"
+      ],
+      [
+        "Issue Tracking System",
+        "Labeling Issue Reports"
+      ],
+      [
+        "GitHub Issue Report Classification Approach (discarded)",
+        "Labeling Issue Reports"
+      ],
+      [
+        "bug",
+        "table_d41d8cd98f00b204e9800998ecf8427e"
+      ],
+      [
+        "Automatic Issue Classifier: A Transfer Learning Framework for Classifying Issue Reports",
+        "discarded_4a7f15b96eac416497ad7b7bb89a4867"
+      ],
+      [
+        "kbhit",
+        "table_d41d8cd98f00b204e9800998ecf8427e"
+      ],
+      [
+        "Automatic Issue Classifier",
+        "Discarded Content Analysis"
+      ],
+      [
+        "USBhost",
+        "getch"
+      ],
+      [
+        "AIC API",
+        "Label"
+      ],
+      [
+        "USBhost",
+        "getche"
+      ],
+      [
+        "Enhancement",
+        "Issue Report"
+      ],
+      [
+        "Footnotes",
+        "table_d41d8cd98f00b204e9800998ecf8427e"
+      ],
+      [
+        "Analysis",
+        "TABLE III"
+      ],
+      [
+        "Structure",
+        "Table Analysis"
+      ],
+      [
+        "Category",
+        "Recall"
+      ],
+      [
+        "USBhost",
+        "getchar"
+      ],
+      [
+        "Automatic Issue Classifier",
+        "discarded_4a7f15b96eac416497ad7b7bb89a4867"
+      ],
+      [
+        "AIC",
+        "User"
+      ],
+      [
+        "Content Analysis",
+        "Discarded Content Analysis"
+      ],
+      [
+        "Fig. 1",
+        "Image Content Analysis"
+      ],
+      [
+        "USBhost",
+        "enhancement"
+      ],
+      [
+        "AIC",
+        "Repository"
+      ],
+      [
+        "getch",
+        "table_d41d8cd98f00b204e9800998ecf8427e"
+      ],
+      [
+        "Table Analysis",
+        "table_d41d8cd98f00b204e9800998ecf8427e"
+      ],
+      [
+        "Issue",
+        "image_d41d8cd98f00b204e9800998ecf8427e"
+      ],
+      [
+        "Category",
+        "Precision"
+      ],
+      [
+        "AIC API",
+        "Issue Report"
+      ],
+      [
+        "AIC API",
+        "image_d41d8cd98f00b204e9800998ecf8427e"
+      ],
+      [
+        "GitHub",
+        "GitHub Issue Report Classification Approach (discarded)"
+      ],
+      [
+        "55 Popular Languages",
+        "GitHub Issue Report Classification Approach (discarded)"
+      ],
+      [
+        "Structure",
+        "table_d41d8cd98f00b204e9800998ecf8427e"
+      ],
+      [
+        "Discarded Content Analysis",
+        "discarded_d41d8cd98f00b204e9800998ecf8427e"
+      ],
+      [
+        "F1-Score",
+        "table_d41d8cd98f00b204e9800998ecf8427e"
+      ],
+      [
+        "Discarded Content",
+        "discarded_d41d8cd98f00b204e9800998ecf8427e"
+      ],
+      [
+        "Issue",
+        "Repository"
+      ],
+      [
+        "getche",
+        "table_d41d8cd98f00b204e9800998ecf8427e"
+      ],
+      [
+        "Category",
+        "F1-Score"
+      ],
+      [
+        "Content Analysis",
+        "Discarded Content"
+      ],
+      [
+        "GitHub Issue Report Classification Approach (discarded)",
+        "Optional Labels"
+      ],
+      [
+        "Hamming Loss",
+        "table_d41d8cd98f00b204e9800998ecf8427e"
+      ],
+      [
+        "Analysis",
+        "Discarded Content"
+      ],
+      [
+        "Effective Tracking of Issue Reports",
+        "GitHub Issue Report Classification Approach (discarded)"
+      ],
+      [
+        "Enhancement",
+        "Issue Tracking System"
+      ],
+      [
+        "USBhost",
+        "kbhit()"
+      ],
+      [
+        "Precision",
+        "table_d41d8cd98f00b204e9800998ecf8427e"
+      ],
+      [
+        "USBhost",
+        "getch()"
+      ],
+      [
+        "Automatic Issue Classifier: A Transfer Learning Framework for Classifying Issue Reports",
+        "Research Paper"
+      ],
+      [
+        "Captions",
+        "image_d41d8cd98f00b204e9800998ecf8427e"
+      ],
+      [
+        "USBhost",
+        "getchar()"
+      ],
+      [
+        "AIC API",
+        "Issue"
+      ],
+      [
+        "Bug",
+        "GitHub Issue Report Classification Approach (discarded)"
+      ],
+      [
+        "USBhost",
+        "scanf"
+      ],
+      [
+        "Caption",
+        "Table Analysis"
+      ],
+      [
+        "Content Analysis",
+        "discarded_d41d8cd98f00b204e9800998ecf8427e"
+      ],
+      [
+        "Category",
+        "Hamming Loss"
+      ],
+      [
+        "Bug",
+        "Issue Report"
+      ],
+      [
+        "scanf",
+        "table_d41d8cd98f00b204e9800998ecf8427e"
+      ],
+      [
+        "Issue Tracking System",
+        "Software Maintenance"
+      ],
+      [
+        "Issue Tracking System",
+        "Question"
+      ],
+      [
+        "GitHub Issue Report Classification Approach (discarded)",
+        "Optimized Resource Allocation"
+      ],
+      [
+        "Caption",
+        "Image Path"
+      ],
+      [
+        "GitHub Issue Report Classification Approach (discarded)",
+        "Question"
+      ],
+      [
+        "USBhost",
+        "bug"
+      ],
+      [
+        "Content Analysis",
+        "Discarded"
+      ],
+      [
+        "USBhost",
+        "table_d41d8cd98f00b204e9800998ecf8427e"
+      ],
+      [
+        "enhancement",
+        "table_d41d8cd98f00b204e9800998ecf8427e"
+      ],
+      [
+        "Discarded",
+        "discarded_d41d8cd98f00b204e9800998ecf8427e"
+      ],
+      [
+        "TABLE III",
+        "table_d41d8cd98f00b204e9800998ecf8427e"
+      ],
+      [
+        "Recall",
+        "table_d41d8cd98f00b204e9800998ecf8427e"
+      ],
+      [
+        "GitHub Issue Report Classification Approach (discarded)",
+        "Issue Report"
+      ],
+      [
+        "Automatic Issue Classifier",
+        "discarded_d41d8cd98f00b204e9800998ecf8427e"
+      ],
+      [
+        "GitHub",
+        "Issue Report"
+      ],
+      [
+        "Efficient Development Documentation",
+        "GitHub Issue Report Classification Approach (discarded)"
+      ],
+      [
+        "Image Path",
+        "image_d41d8cd98f00b204e9800998ecf8427e"
+      ],
+      [
+        "GitHub",
+        "Issue Tracking System"
+      ],
+      [
+        "Caption",
+        "table_d41d8cd98f00b204e9800998ecf8427e"
+      ],
+      [
+        "Label",
+        "image_d41d8cd98f00b204e9800998ecf8427e"
+      ],
+      [
+        "Category",
+        "Table Analysis"
+      ],
+      [
+        "Content",
+        "Discarded Content Analysis"
+      ],
+      [
+        "USBhost",
+        "gets()"
+      ],
+      [
+        "gets",
+        "table_d41d8cd98f00b204e9800998ecf8427e"
+      ],
+      [
+        "USBhost",
+        "gets"
+      ],
+      [
+        "Image Content Analysis",
+        "image_d41d8cd98f00b204e9800998ecf8427e"
+      ]
+    ],
+    "count": 110,
+    "update_time": 1762636872,
+    "_id": "doc-abb724854e3aea647545a5fb3fa861b4"
+  }
+}

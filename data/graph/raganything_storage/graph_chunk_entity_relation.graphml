@@ -1,0 +1,1932 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d13" for="edge" attr.name="truncate" attr.type="string" />
+  <key id="d12" for="edge" attr.name="created_at" attr.type="long" />
+  <key id="d11" for="edge" attr.name="file_path" attr.type="string" />
+  <key id="d10" for="edge" attr.name="source_id" attr.type="string" />
+  <key id="d9" for="edge" attr.name="keywords" attr.type="string" />
+  <key id="d8" for="edge" attr.name="description" attr.type="string" />
+  <key id="d7" for="edge" attr.name="weight" attr.type="double" />
+  <key id="d6" for="node" attr.name="truncate" attr.type="string" />
+  <key id="d5" for="node" attr.name="created_at" attr.type="long" />
+  <key id="d4" for="node" attr.name="file_path" attr.type="string" />
+  <key id="d3" for="node" attr.name="source_id" attr.type="string" />
+  <key id="d2" for="node" attr.name="description" attr.type="string" />
+  <key id="d1" for="node" attr.name="entity_type" attr.type="string" />
+  <key id="d0" for="node" attr.name="entity_id" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="Chawla et al.">
+      <data key="d0">Chawla et al.</data>
+      <data key="d1">person</data>
+      <data key="d2">Chawla et al. is a group of researchers who proposed an automated approach to categorize issue reports.</data>
+      <data key="d3">chunk-c2973796c324e403d47ff69ddbd820cb</data>
+      <data key="d4">AIC.pdf</data>
+      <data key="d5">1762636340</data>
+      <data key="d6" />
+    </node>
+    <node id="Fazayeli et al.">
+      <data key="d0">Fazayeli et al.</data>
+      <data key="d1">person</data>
+      <data key="d2">Fazayeli et al. is a group of researchers who used text-based classification to label GitHub issues.</data>
+      <data key="d3">chunk-c2973796c324e403d47ff69ddbd820cb</data>
+      <data key="d4">AIC.pdf</data>
+      <data key="d5">1762636340</data>
+      <data key="d6" />
+    </node>
+    <node id="Devlin et al.">
+      <data key="d0">Devlin et al.</data>
+      <data key="d1">person</data>
+      <data key="d2">Devlin et al. is a group of researchers who introduced Bidirectional Transformers for Language Understanding (BERT).</data>
+      <data key="d3">chunk-c2973796c324e403d47ff69ddbd820cb</data>
+      <data key="d4">AIC.pdf</data>
+      <data key="d5">1762636340</data>
+      <data key="d6" />
+    </node>
+    <node id="Liu et al.">
+      <data key="d0">Liu et al.</data>
+      <data key="d1">person</data>
+      <data key="d2">Liu et al. is a group of researchers who proposed RoBERTa, a robust and optimized variant of BERT.</data>
+      <data key="d3">chunk-c2973796c324e403d47ff69ddbd820cb</data>
+      <data key="d4">AIC.pdf</data>
+      <data key="d5">1762636340</data>
+      <data key="d6" />
+    </node>
+    <node id="Bahdanau et al.">
+      <data key="d0">Bahdanau et al.</data>
+      <data key="d1">person</data>
+      <data key="d2">Bahdanau et al. is a group of researchers who introduced an attention mechanism for machine translation.</data>
+      <data key="d3">chunk-c2973796c324e403d47ff69ddbd820cb</data>
+      <data key="d4">AIC.pdf</data>
+      <data key="d5">1762636340</data>
+      <data key="d6" />
+    </node>
+    <node id="Attention-based Networks">
+      <data key="d0">Attention-based Networks</data>
+      <data key="d1">concept</data>
+      <data key="d2">Attention-based Networks are a type of neural network architecture that uses an attention mechanism to focus on context-relevant details in a given text.</data>
+      <data key="d3">chunk-c2973796c324e403d47ff69ddbd820cb</data>
+      <data key="d4">AIC.pdf</data>
+      <data key="d5">1762636340</data>
+      <data key="d6" />
+    </node>
+    <node id="Machine Translation">
+      <data key="d0">Machine Translation</data>
+      <data key="d1">concept</data>
+      <data key="d2">Machine Translation is a natural language processing task that involves translating text from one language to another.</data>
+      <data key="d3">chunk-c2973796c324e403d47ff69ddbd820cb</data>
+      <data key="d4">AIC.pdf</data>
+      <data key="d5">1762636340</data>
+      <data key="d6" />
+    </node>
+    <node id="Transformer-architecture">
+      <data key="d0">Transformer-architecture</data>
+      <data key="d1">concept</data>
+      <data key="d2">Transformer-architecture is a type of neural network architecture that uses self-attention mechanisms to process input sequences.</data>
+      <data key="d3">chunk-c2973796c324e403d47ff69ddbd820cb</data>
+      <data key="d4">AIC.pdf</data>
+      <data key="d5">1762636340</data>
+      <data key="d6" />
+    </node>
+    <node id="BERT">
+      <data key="d0">BERT</data>
+      <data key="d1">method</data>
+      <data key="d2">BERT is a pre-trained transformer-based model for natural language processing tasks.</data>
+      <data key="d3">chunk-c2973796c324e403d47ff69ddbd820cb</data>
+      <data key="d4">AIC.pdf</data>
+      <data key="d5">1762636340</data>
+      <data key="d6" />
+    </node>
+    <node id="RoBERTa">
+      <data key="d0">RoBERTa</data>
+      <data key="d1">method</data>
+      <data key="d2">RoBERTa is a pre-trained transformer-based model that is a robust and optimized variant of BERT.&lt;SEP&gt;RoBERTa is a specific transformer-based model used in the study.&lt;SEP&gt;RoBERTa is a transformer-based model used for the automated classification of issue reports.</data>
+      <data key="d3">chunk-c2973796c324e403d47ff69ddbd820cb&lt;SEP&gt;chunk-b4b083475e833e19dd940e33120eff49&lt;SEP&gt;chunk-113d9fad8dae4122ba11cdc4471817cf</data>
+      <data key="d4">AIC.pdf</data>
+      <data key="d5">1762636869</data>
+      <data key="d6" />
+    </node>
+    <node id="IEEE Spectrum Top Programming Languages list">
+      <data key="d0">IEEE Spectrum Top Programming Languages list</data>
+      <data key="d1">data</data>
+      <data key="d2">IEEE Spectrum Top Programming Languages list is a list of the most popular programming languages.</data>
+      <data key="d3">chunk-c2973796c324e403d47ff69ddbd820cb</data>
+      <data key="d4">AIC.pdf</data>
+      <data key="d5">1762636340</data>
+      <data key="d6" />
+    </node>
+    <node id="GitHub">
+      <data key="d0">GitHub</data>
+      <data key="d1">organization</data>
+      <data key="d2">GitHub is a web-based hosting service for version control using Git, software development, and collaboration.&lt;SEP&gt;GitHub is a web-based hosting service for version control and collaboration.&lt;SEP&gt;GitHub is a version control and source code management service that offers an issue tracking system.</data>
+      <data key="d3">chunk-c2973796c324e403d47ff69ddbd820cb&lt;SEP&gt;chunk-b4b083475e833e19dd940e33120eff49&lt;SEP&gt;chunk-113d9fad8dae4122ba11cdc4471817cf</data>
+      <data key="d4">AIC.pdf</data>
+      <data key="d5">1762636869</data>
+      <data key="d6" />
+    </node>
+    <node id="GitHub Search and Data API 6">
+      <data key="d0">GitHub Search and Data API 6</data>
+      <data key="d1">service</data>
+      <data key="d2">GitHub Search and Data API 6 is a service provided by GitHub for searching and accessing data from GitHub repositories.</data>
+      <data key="d3">chunk-c2973796c324e403d47ff69ddbd820cb</data>
+      <data key="d4">AIC.pdf</data>
+      <data key="d5">1762636340</data>
+      <data key="d6" />
+    </node>
+    <node id="Laravel">
+      <data key="d0">Laravel</data>
+      <data key="d1">artifact</data>
+      <data key="d2">Laravel is a popular open-source PHP web application framework.</data>
+      <data key="d3">chunk-c2973796c324e403d47ff69ddbd820cb</data>
+      <data key="d4">AIC.pdf</data>
+      <data key="d5">1762636340</data>
+      <data key="d6" />
+    </node>
+    <node id="Kubernetes">
+      <data key="d0">Kubernetes</data>
+      <data key="d1">artifact</data>
+      <data key="d2">Kubernetes is an open-source container orchestration system for automating deployment, scaling, and management of containerized applications.</data>
+      <data key="d3">chunk-c2973796c324e403d47ff69ddbd820cb</data>
+      <data key="d4">AIC.pdf</data>
+      <data key="d5">1762636340</data>
+      <data key="d6" />
+    </node>
+    <node id="Linux">
+      <data key="d0">Linux</data>
+      <data key="d1">artifact</data>
+      <data key="d2">Linux is a free and open-source operating system based on the Unix operating system.</data>
+      <data key="d3">chunk-c2973796c324e403d47ff69ddbd820cb</data>
+      <data key="d4">AIC.pdf</data>
+      <data key="d5">1762636340</data>
+      <data key="d6" />
+    </node>
+    <node id="Spark">
+      <data key="d0">Spark</data>
+      <data key="d1">artifact</data>
+      <data key="d2">Spark is a popular open-source big data processing framework.</data>
+      <data key="d3">chunk-c2973796c324e403d47ff69ddbd820cb</data>
+      <data key="d4">AIC.pdf</data>
+      <data key="d5">1762636341</data>
+      <data key="d6" />
+    </node>
+    <node id="Issue Report">
+      <data key="d0">Issue Report</data>
+      <data key="d1">content</data>
+      <data key="d2">Issue Report refers to a user-submitted request for changes to a software project hosted on GitHub.&lt;SEP&gt;Issue report refers to a user-submitted communication about a problem or request related to a software project.&lt;SEP&gt;Issue Report refers to the text content of a user-created issue that AIC uses to predict and classify the issue.</data>
+      <data key="d3">chunk-b4b083475e833e19dd940e33120eff49&lt;SEP&gt;chunk-8af302727f7bee7137fd6c686c2bf223&lt;SEP&gt;chunk-113d9fad8dae4122ba11cdc4471817cf</data>
+      <data key="d4">AIC.pdf</data>
+      <data key="d5">1762636869</data>
+      <data key="d6" />
+    </node>
+    <node id="Transformer-based Model">
+      <data key="d0">Transformer-based Model</data>
+      <data key="d1">method</data>
+      <data key="d2">Transformer-based Model is a type of machine learning model used for natural language processing tasks.</data>
+      <data key="d3">chunk-b4b083475e833e19dd940e33120eff49</data>
+      <data key="d4">AIC.pdf</data>
+      <data key="d5">1762636341</data>
+      <data key="d6" />
+    </node>
+    <node id="Bug">
+      <data key="d0">Bug</data>
+      <data key="d1">concept</data>
+      <data key="d2">Bug refers to an error, flaw, or failure in a software program or system.&lt;SEP&gt;Bug is a type of issue report that describes a problem or error in a software system.</data>
+      <data key="d3">chunk-b4b083475e833e19dd940e33120eff49&lt;SEP&gt;chunk-113d9fad8dae4122ba11cdc4471817cf</data>
+      <data key="d4">AIC.pdf</data>
+      <data key="d5">1762636869</data>
+      <data key="d6" />
+    </node>
+    <node id="Enhancement">
+      <data key="d0">Enhancement</data>
+      <data key="d1">concept</data>
+      <data key="d2">Enhancement refers to a request for improving or adding new features to a software program or system.&lt;SEP&gt;Enhancement is a type of issue report that suggests improvements or new features for a software system.</data>
+      <data key="d3">chunk-b4b083475e833e19dd940e33120eff49&lt;SEP&gt;chunk-113d9fad8dae4122ba11cdc4471817cf</data>
+      <data key="d4">AIC.pdf</data>
+      <data key="d5">1762636869</data>
+      <data key="d6" />
+    </node>
+    <node id="Question">
+      <data key="d0">Question</data>
+      <data key="d1">concept</data>
+      <data key="d2">Question refers to a request for clarification or information about a software program or system.&lt;SEP&gt;Question is a type of issue report that seeks clarification or information about a software system.</data>
+      <data key="d3">chunk-b4b083475e833e19dd940e33120eff49&lt;SEP&gt;chunk-113d9fad8dae4122ba11cdc4471817cf</data>
+      <data key="d4">AIC.pdf</data>
+      <data key="d5">1762636869</data>
+      <data key="d6" />
+    </node>
+    <node id="Issue Classification">
+      <data key="d0">Issue Classification</data>
+      <data key="d1">concept</data>
+      <data key="d2">Issue Classification refers to the process of categorizing issue reports on GitHub.</data>
+      <data key="d3">chunk-b4b083475e833e19dd940e33120eff49</data>
+      <data key="d4">AIC.pdf</data>
+      <data key="d5">1762636341</data>
+      <data key="d6" />
+    </node>
+    <node id="Multi-label Classification">
+      <data key="d0">Multi-label Classification</data>
+      <data key="d1">method</data>
+      <data key="d2">Multi-label Classification is a machine learning problem where an instance can belong to multiple classes at the same time.</data>
+      <data key="d3">chunk-b4b083475e833e19dd940e33120eff49</data>
+      <data key="d4">AIC.pdf</data>
+      <data key="d5">1762636341</data>
+      <data key="d6" />
+    </node>
+    <node id="F1-Score">
+      <data key="d0">F1-Score</data>
+      <data key="d1">concept</data>
+      <data key="d2">F1-Score is a performance metric used to evaluate the accuracy of binary and multi-class classification problems.&lt;SEP&gt;A measure of the balance between precision and recall for the proposed approach.</data>
+      <data key="d3">chunk-b4b083475e833e19dd940e33120eff49&lt;SEP&gt;chunk-a29416a7e3aef43f24a9ab19e3665112</data>
+      <data key="d4">AIC.pdf</data>
+      <data key="d5">1762636868</data>
+      <data key="d6" />
+    </node>
+    <node id="GitHub Issue Data Set">
+      <data key="d0">GitHub Issue Data Set</data>
+      <data key="d1">data</data>
+      <data key="d2">GitHub Issue Data Set is a dataset used for training and evaluating the issue classification model.</data>
+      <data key="d3">chunk-b4b083475e833e19dd940e33120eff49</data>
+      <data key="d4">AIC.pdf</data>
+      <data key="d5">1762636341</data>
+      <data key="d6" />
+    </node>
+    <node id="Top 200 Repositories">
+      <data key="d0">Top 200 Repositories</data>
+      <data key="d1">location</data>
+      <data key="d2">Top 200 Repositories refers to the top 200 software repositories on GitHub.</data>
+      <data key="d3">chunk-b4b083475e833e19dd940e33120eff49</data>
+      <data key="d4">AIC.pdf</data>
+      <data key="d5">1762636341</data>
+      <data key="d6" />
+    </node>
+    <node id="55 Popular Languages">
+      <data key="d0">55 Popular Languages</data>
+      <data key="d1">category</data>
+      <data key="d2">55 Popular Languages refers to the 55 programming languages used in the study.&lt;SEP&gt;The transformer-based model was evaluated on approximately 55,000 issue reports across 55 popular languages.</data>
+      <data key="d3">chunk-b4b083475e833e19dd940e33120eff49&lt;SEP&gt;chunk-113d9fad8dae4122ba11cdc4471817cf</data>
+      <data key="d4">AIC.pdf</data>
+      <data key="d5">1762636869</data>
+      <data key="d6" />
+    </node>
+    <node id="Automatic Issue Classifier (AIC)">
+      <data key="d0">Automatic Issue Classifier (AIC)</data>
+      <data key="d1">artifact</data>
+      <data key="d2">Automatic Issue Classifier (AIC) is a tool developed based on the transformer-based approach for classifying GitHub issue reports.</data>
+      <data key="d3">chunk-b4b083475e833e19dd940e33120eff49</data>
+      <data key="d4">AIC.pdf</data>
+      <data key="d5">1762636341</data>
+      <data key="d6" />
+    </node>
+    <node id="Software Development Team">
+      <data key="d0">Software Development Team</data>
+      <data key="d1">organization</data>
+      <data key="d2">Software Development Team refers to the group responsible for developing and maintaining software.</data>
+      <data key="d3">chunk-b4b083475e833e19dd940e33120eff49</data>
+      <data key="d4">AIC.pdf</data>
+      <data key="d5">1762636341</data>
+      <data key="d6" />
+    </node>
+    <node id="Software Maintenance Process">
+      <data key="d0">Software Maintenance Process</data>
+      <data key="d1">process</data>
+      <data key="d2">Software Maintenance Process refers to the activities involved in maintaining and updating software.</data>
+      <data key="d3">chunk-b4b083475e833e19dd940e33120eff49</data>
+      <data key="d4">AIC.pdf</data>
+      <data key="d5">1762636341</data>
+      <data key="d6" />
+    </node>
+    <node id="Effective Development Documentation">
+      <data key="d0">Effective Development Documentation</data>
+      <data key="d1">concept</data>
+      <data key="d2">Effective Development Documentation refers to well-organized and comprehensive documentation of software development.</data>
+      <data key="d3">chunk-b4b083475e833e19dd940e33120eff49</data>
+      <data key="d4">AIC.pdf</data>
+      <data key="d5">1762636341</data>
+      <data key="d6" />
+    </node>
+    <node id="Project Team">
+      <data key="d0">Project Team</data>
+      <data key="d1">organization</data>
+      <data key="d2">Project Team refers to the group responsible for managing and executing a project.</data>
+      <data key="d3">chunk-b4b083475e833e19dd940e33120eff49</data>
+      <data key="d4">AIC.pdf</data>
+      <data key="d5">1762636341</data>
+      <data key="d6" />
+    </node>
+    <node id="Code-base">
+      <data key="d0">Code-base</data>
+      <data key="d1">artifact</data>
+      <data key="d2">Code-base refers to the source code of a software program or system.</data>
+      <data key="d3">chunk-b4b083475e833e19dd940e33120eff49</data>
+      <data key="d4">AIC.pdf</data>
+      <data key="d5">1762636341</data>
+      <data key="d6" />
+    </node>
+    <node id="Resource Allocation Process">
+      <data key="d0">Resource Allocation Process</data>
+      <data key="d1">process</data>
+      <data key="d2">Resource Allocation Process refers to the process of assigning resources to tasks or projects.</data>
+      <data key="d3">chunk-b4b083475e833e19dd940e33120eff49</data>
+      <data key="d4">AIC.pdf</data>
+      <data key="d5">1762636341</data>
+      <data key="d6" />
+    </node>
+    <node id="Fuzzy Logic based system">
+      <data key="d0">Fuzzy Logic based system</data>
+      <data key="d3">chunk-c2973796c324e403d47ff69ddbd820cb</data>
+      <data key="d2">Chawla et al. proposed an automated approach to categorize issue reports using a Fuzzy Logic based system.</data>
+      <data key="d1">UNKNOWN</data>
+      <data key="d4">AIC.pdf</data>
+      <data key="d5">1762636341</data>
+      <data key="d6" />
+    </node>
+    <node id="HTTPClient, Jackrabbit, and Lucene">
+      <data key="d0">HTTPClient, Jackrabbit, and Lucene</data>
+      <data key="d3">chunk-c2973796c324e403d47ff69ddbd820cb</data>
+      <data key="d2">Chawla et al. evaluated their model on issue reports from HTTPClient, Jackrabbit, and Lucene.</data>
+      <data key="d1">UNKNOWN</data>
+      <data key="d4">AIC.pdf</data>
+      <data key="d5">1762636341</data>
+      <data key="d6" />
+    </node>
+    <node id="F-1 score">
+      <data key="d0">F-1 score</data>
+      <data key="d3">chunk-c2973796c324e403d47ff69ddbd820cb</data>
+      <data key="d2">Chawla et al. achieved an F-1 score of 0.83, 0.79, 0.84 for the three repositories, respectively.</data>
+      <data key="d1">UNKNOWN</data>
+      <data key="d4">AIC.pdf</data>
+      <data key="d5">1762636341</data>
+      <data key="d6" />
+    </node>
+    <node id="GitHub Issue Report Classification Approach (discarded)">
+      <data key="d0">GitHub Issue Report Classification Approach (discarded)</data>
+      <data key="d1">discarded</data>
+      <data key="d2">This discarded content discusses a state-of-the-art method to classify GitHub issue reports into their respective categories (bug, enhancement, and question) using a transformer-based model called RoBERTa. The approach was evaluated on approximately 55,000 issue reports across 55 popular languages and achieves promising F-1 scores. The approach aims to address the challenges faced in labeling issue reports and has immediate benefits for the industry, such as effective tracking of issue reports, efficient development documentation, and optimized resource allocation.</data>
+      <data key="d3">chunk-113d9fad8dae4122ba11cdc4471817cf</data>
+      <data key="d4">AIC.pdf</data>
+      <data key="d5">1762636473</data>
+    </node>
+    <node id="discarded_4a7f15b96eac416497ad7b7bb89a4867">
+      <data key="d0">discarded_4a7f15b96eac416497ad7b7bb89a4867</data>
+      <data key="d1">discarded</data>
+      <data key="d2">{
+    "detailed_description": "The discarded content is a research paper titled 'Automatic Issue Cla...</data>
+      <data key="d3">chunk-e21c9f03777f97b1c769d40045c4fb6f</data>
+      <data key="d4">AIC.pdf</data>
+      <data key="d5">1762636473</data>
+    </node>
+    <node id="image_d41d8cd98f00b204e9800998ecf8427e">
+      <data key="d0">image_d41d8cd98f00b204e9800998ecf8427e</data>
+      <data key="d1">image</data>
+      <data key="d2" />
+      <data key="d3">chunk-738d8975c0fd394f3ad86c6e47f2c837&lt;SEP&gt;chunk-8af302727f7bee7137fd6c686c2bf223&lt;SEP&gt;chunk-606004bda14ff333243e15d236785aec</data>
+      <data key="d4">AIC.pdf</data>
+      <data key="d5">1762636473</data>
+    </node>
+    <node id="table_d41d8cd98f00b204e9800998ecf8427e">
+      <data key="d0">table_d41d8cd98f00b204e9800998ecf8427e</data>
+      <data key="d1">table</data>
+      <data key="d2" />
+      <data key="d3">chunk-a29416a7e3aef43f24a9ab19e3665112&lt;SEP&gt;chunk-7255a4db9ea98458afae7848b6f9d7bd&lt;SEP&gt;chunk-826774d1fade6f54d767df535aef4adb</data>
+      <data key="d4">AIC.pdf</data>
+      <data key="d5">1762636473</data>
+    </node>
+    <node id="discarded_d41d8cd98f00b204e9800998ecf8427e">
+      <data key="d0">discarded_d41d8cd98f00b204e9800998ecf8427e</data>
+      <data key="d1">discarded</data>
+      <data key="d2" />
+      <data key="d3">chunk-eb6fe8008751caaaea3e81ac978d47e7&lt;SEP&gt;chunk-eba9b95cdc4c3ee9638d12437e55cfea&lt;SEP&gt;chunk-3592f65717df494dd148b907d8b5a446&lt;SEP&gt;chunk-7d57bbcbda778268aaed3550310c8c61&lt;SEP&gt;chunk-0503b9cff8585d18d3c74d988806f900&lt;SEP&gt;chunk-4ff801203138a10de021be3acaebe894&lt;SEP&gt;chunk-f486808058f4365b598bba0c8214a67a</data>
+      <data key="d4">AIC.pdf</data>
+      <data key="d5">1762636473</data>
+    </node>
+    <node id="Content Analysis">
+      <data key="d0">Content Analysis</data>
+      <data key="d1">concept</data>
+      <data key="d2">Content Analysis is a process for examining and interpreting the information contained within a given text or data source.&lt;SEP&gt;Content Analysis is a process for examining and interpreting the information within a given text or data source.</data>
+      <data key="d3">chunk-eb6fe8008751caaaea3e81ac978d47e7&lt;SEP&gt;chunk-7d57bbcbda778268aaed3550310c8c61&lt;SEP&gt;chunk-3592f65717df494dd148b907d8b5a446</data>
+      <data key="d4">AIC.pdf</data>
+      <data key="d5">1762636868</data>
+      <data key="d6" />
+    </node>
+    <node id="Discarded">
+      <data key="d0">Discarded</data>
+      <data key="d1">concept</data>
+      <data key="d2">Discarded refers to content that is not considered relevant or important for further analysis.</data>
+      <data key="d3">chunk-eb6fe8008751caaaea3e81ac978d47e7</data>
+      <data key="d4">AIC.pdf</data>
+      <data key="d5">1762636868</data>
+      <data key="d6" />
+    </node>
+    <node id="Discarded Content Analysis">
+      <data key="d0">Discarded Content Analysis</data>
+      <data key="d1">content</data>
+      <data key="d2">An analysis of discarded content, including its type, text, bbox, and page_idx.&lt;SEP&gt;A system-generated analysis of discarded content, including its type and text.&lt;SEP&gt;An analysis of discarded content, as indicated by the text.&lt;SEP&gt;A discarded content analysis is a process that identifies and removes irrelevant or unnecessary content from a given text.&lt;SEP&gt;An analysis of discarded content, with no specific details provided.&lt;SEP&gt;A discarded content analysis is a process that identifies and removes irrelevant or unnecessary content from a document or dataset.</data>
+      <data key="d3">chunk-eb6fe8008751caaaea3e81ac978d47e7&lt;SEP&gt;chunk-eba9b95cdc4c3ee9638d12437e55cfea&lt;SEP&gt;chunk-3592f65717df494dd148b907d8b5a446&lt;SEP&gt;chunk-7d57bbcbda778268aaed3550310c8c61&lt;SEP&gt;chunk-0503b9cff8585d18d3c74d988806f900&lt;SEP&gt;chunk-4ff801203138a10de021be3acaebe894&lt;SEP&gt;chunk-f486808058f4365b598bba0c8214a67a</data>
+      <data key="d4">AIC.pdf</data>
+      <data key="d5">1762636868</data>
+      <data key="d6" />
+    </node>
+    <node id="Table Analysis">
+      <data key="d0">Table Analysis</data>
+      <data key="d1">content</data>
+      <data key="d2">A written analysis of the table structure and content.&lt;SEP&gt;A summary of the evaluation results of a proposed approach for a specific task.</data>
+      <data key="d3">chunk-a29416a7e3aef43f24a9ab19e3665112&lt;SEP&gt;chunk-7255a4db9ea98458afae7848b6f9d7bd</data>
+      <data key="d4">AIC.pdf</data>
+      <data key="d5">1762636868</data>
+      <data key="d6" />
+    </node>
+    <node id="Image Path">
+      <data key="d0">Image Path</data>
+      <data key="d1">data</data>
+      <data key="d2">The path to the image file associated with the table.&lt;SEP&gt;The path to the image associated with the table analysis.&lt;SEP&gt;/home/ubuntu/agentic_rag/data/graph/raganything_storage/AIC/auto/images/43bf1136c6967ef7b789f94f6bb0c937dda7890897e595918cad6fa87b4a2016.jpg</data>
+      <data key="d3">chunk-a29416a7e3aef43f24a9ab19e3665112&lt;SEP&gt;chunk-7255a4db9ea98458afae7848b6f9d7bd&lt;SEP&gt;chunk-738d8975c0fd394f3ad86c6e47f2c837</data>
+      <data key="d4">AIC.pdf</data>
+      <data key="d5">1762636868</data>
+      <data key="d6" />
+    </node>
+    <node id="Caption">
+      <data key="d0">Caption</data>
+      <data key="d1">content</data>
+      <data key="d2">The text description of the image.&lt;SEP&gt;The caption for the image associated with the table analysis.</data>
+      <data key="d3">chunk-a29416a7e3aef43f24a9ab19e3665112&lt;SEP&gt;chunk-7255a4db9ea98458afae7848b6f9d7bd</data>
+      <data key="d4">AIC.pdf</data>
+      <data key="d5">1762636868</data>
+      <data key="d6" />
+    </node>
+    <node id="Structure">
+      <data key="d0">Structure</data>
+      <data key="d1">concept</data>
+      <data key="d2">The structure of the table, including its organization and layout.&lt;SEP&gt;The structure of the table analysis, presented in a tabular format.</data>
+      <data key="d3">chunk-a29416a7e3aef43f24a9ab19e3665112&lt;SEP&gt;chunk-7255a4db9ea98458afae7848b6f9d7bd</data>
+      <data key="d4">AIC.pdf</data>
+      <data key="d5">1762636868</data>
+      <data key="d6" />
+    </node>
+    <node id="Category">
+      <data key="d0">Category</data>
+      <data key="d1">concept</data>
+      <data key="d2">A specific classification or grouping within the table analysis.</data>
+      <data key="d3">chunk-a29416a7e3aef43f24a9ab19e3665112</data>
+      <data key="d4">AIC.pdf</data>
+      <data key="d5">1762636868</data>
+      <data key="d6" />
+    </node>
+    <node id="Precision">
+      <data key="d0">Precision</data>
+      <data key="d1">concept</data>
+      <data key="d2">A measure of the accuracy of the positive predictions made by the proposed approach.</data>
+      <data key="d3">chunk-a29416a7e3aef43f24a9ab19e3665112</data>
+      <data key="d4">AIC.pdf</data>
+      <data key="d5">1762636868</data>
+      <data key="d6" />
+    </node>
+    <node id="Recall">
+      <data key="d0">Recall</data>
+      <data key="d1">concept</data>
+      <data key="d2">A measure of the completeness of the proposed approach in identifying all relevant instances.</data>
+      <data key="d3">chunk-a29416a7e3aef43f24a9ab19e3665112</data>
+      <data key="d4">AIC.pdf</data>
+      <data key="d5">1762636868</data>
+      <data key="d6" />
+    </node>
+    <node id="Hamming Loss">
+      <data key="d0">Hamming Loss</data>
+      <data key="d1">concept</data>
+      <data key="d2">A measure of the average number of errors made by the proposed approach.</data>
+      <data key="d3">chunk-a29416a7e3aef43f24a9ab19e3665112</data>
+      <data key="d4">AIC.pdf</data>
+      <data key="d5">1762636868</data>
+      <data key="d6" />
+    </node>
+    <node id="TABLE III EVALUATION RESULTS OF OUR PROPOSED APPROACH">
+      <data key="d0">TABLE III EVALUATION RESULTS OF OUR PROPOSED APPROACH</data>
+      <data key="d1">content</data>
+      <data key="d2">The title of the table analysis, indicating the evaluation results of a proposed approach.</data>
+      <data key="d3">chunk-a29416a7e3aef43f24a9ab19e3665112</data>
+      <data key="d4">AIC.pdf</data>
+      <data key="d5">1762636868</data>
+      <data key="d6" />
+    </node>
+    <node id="TABLE III">
+      <data key="d0">TABLE III</data>
+      <data key="d1">event</data>
+      <data key="d2">TABLE III is a specific event in the text, representing the evaluation results of the proposed approach.</data>
+      <data key="d3">chunk-a29416a7e3aef43f24a9ab19e3665112</data>
+      <data key="d4">AIC.pdf</data>
+      <data key="d5">1762636868</data>
+      <data key="d6" />
+    </node>
+    <node id="Discarded Content">
+      <data key="d0">Discarded Content</data>
+      <data key="d1">content</data>
+      <data key="d2">A category of content that was discarded during analysis.</data>
+      <data key="d3">chunk-eba9b95cdc4c3ee9638d12437e55cfea&lt;SEP&gt;chunk-7d57bbcbda778268aaed3550310c8c61</data>
+      <data key="d4">AIC.pdf</data>
+      <data key="d5">1762636868</data>
+      <data key="d6" />
+    </node>
+    <node id="Footnotes">
+      <data key="d0">Footnotes</data>
+      <data key="d1">content</data>
+      <data key="d2">Any additional notes or explanations provided at the bottom of the table.&lt;SEP&gt;Any additional notes or explanations accompanying the image.</data>
+      <data key="d3">chunk-7255a4db9ea98458afae7848b6f9d7bd&lt;SEP&gt;chunk-738d8975c0fd394f3ad86c6e47f2c837</data>
+      <data key="d4">AIC.pdf</data>
+      <data key="d5">1762636868</data>
+      <data key="d6" />
+    </node>
+    <node id="Automatic Issue Classifier: A Transfer Learning Framework for Classifying Issue Reports">
+      <data key="d0">Automatic Issue Classifier: A Transfer Learning Framework for Classifying Issue Reports</data>
+      <data key="d1">discarded</data>
+      <data key="d2">This research paper presents a transformer-based approach for classifying GitHub issue reports in a multi-label setting. The authors use RoBERTa to train their model and achieve promising results with an F1-Score nearing 80%. They also developed and released a tool, Automatic Issue Classifier (AIC), on top of their transfer-based approach.</data>
+      <data key="d3">chunk-e21c9f03777f97b1c769d40045c4fb6f</data>
+      <data key="d4">AIC.pdf</data>
+      <data key="d5">1762636868</data>
+      <data key="d6" />
+    </node>
+    <node id="Automatic Issue Classifier">
+      <data key="d0">Automatic Issue Classifier</data>
+      <data key="d1">software</data>
+      <data key="d2">The Automatic Issue Classifier is a tool developed by the authors of the discarded research paper to classify GitHub issue reports.&lt;SEP&gt;A software tool for automatic issue classification, as mentioned in the discarded content.&lt;SEP&gt;Automatic Issue Classifier is a software tool that automatically assigns labels to newly reported issues on a repository.</data>
+      <data key="d3">chunk-e21c9f03777f97b1c769d40045c4fb6f&lt;SEP&gt;chunk-738d8975c0fd394f3ad86c6e47f2c837&lt;SEP&gt;chunk-4ff801203138a10de021be3acaebe894</data>
+      <data key="d4">AIC.pdf</data>
+      <data key="d5">1762636869</data>
+      <data key="d6" />
+    </node>
+    <node id="AIC">
+      <data key="d0">AIC</data>
+      <data key="d1">artifact</data>
+      <data key="d2">AIC is an automated issue classification tool that requires a user to create an issue on a repository integrated with AIC.</data>
+      <data key="d3">chunk-8af302727f7bee7137fd6c686c2bf223</data>
+      <data key="d4">AIC.pdf</data>
+      <data key="d5">1762636869</data>
+      <data key="d6" />
+    </node>
+    <node id="Issue">
+      <data key="d0">Issue</data>
+      <data key="d1">content</data>
+      <data key="d2">Issue refers to a problem or question that a user creates on a repository.</data>
+      <data key="d3">chunk-8af302727f7bee7137fd6c686c2bf223</data>
+      <data key="d4">AIC.pdf</data>
+      <data key="d5">1762636869</data>
+      <data key="d6" />
+    </node>
+    <node id="Repository">
+      <data key="d0">Repository</data>
+      <data key="d1">artifact</data>
+      <data key="d2">Repository is an artifact where users can create and manage issues.</data>
+      <data key="d3">chunk-8af302727f7bee7137fd6c686c2bf223&lt;SEP&gt;chunk-738d8975c0fd394f3ad86c6e47f2c837</data>
+      <data key="d4">AIC.pdf</data>
+      <data key="d5">1762636869</data>
+      <data key="d6" />
+    </node>
+    <node id="AIC API">
+      <data key="d0">AIC API</data>
+      <data key="d1">artifact</data>
+      <data key="d2">AIC API is the application programming interface (API) of AIC that receives events from new issues and predicts the issues based on the text in the issue report.</data>
+      <data key="d3">chunk-8af302727f7bee7137fd6c686c2bf223</data>
+      <data key="d4">AIC.pdf</data>
+      <data key="d5">1762636869</data>
+      <data key="d6" />
+    </node>
+    <node id="Label">
+      <data key="d0">Label</data>
+      <data key="d1">concept</data>
+      <data key="d2">Label is a categorization assigned to an issue by AIC based on its prediction.</data>
+      <data key="d3">chunk-8af302727f7bee7137fd6c686c2bf223</data>
+      <data key="d4">AIC.pdf</data>
+      <data key="d5">1762636869</data>
+      <data key="d6" />
+    </node>
+    <node id="Image Content Analysis">
+      <data key="d0">Image Content Analysis</data>
+      <data key="d1">content</data>
+      <data key="d2">A written report discussing the process of analyzing image content, including data collection, pre-processing, and evaluation.</data>
+      <data key="d3">chunk-606004bda14ff333243e15d236785aec</data>
+      <data key="d4">AIC.pdf</data>
+      <data key="d5">1762636869</data>
+      <data key="d6" />
+    </node>
+    <node id="Fig. 1">
+      <data key="d0">Fig. 1</data>
+      <data key="d1">content</data>
+      <data key="d2">A visual representation of the framework for image content analysis, including the data collection, pre-processing, and evaluation phases.</data>
+      <data key="d3">chunk-606004bda14ff333243e15d236785aec</data>
+      <data key="d4">AIC.pdf</data>
+      <data key="d5">1762636869</data>
+      <data key="d6" />
+    </node>
+    <node id="/home/ubuntu/agentic_rag/data/graph/raganything_storage/AIC/auto/images/ead42c6eb9236478a92f2d7d2dbf3dce50b012f3aaa2adb90814bcaff1461644.jpg">
+      <data key="d0">/home/ubuntu/agentic_rag/data/graph/raganything_storage/AIC/auto/images/ead42c6eb9236478a92f2d7d2dbf3dce50b012f3aaa2adb90814bcaff1461644.jpg</data>
+      <data key="d1">artifact</data>
+      <data key="d2">The specific image file used for the image content analysis.</data>
+      <data key="d3">chunk-606004bda14ff333243e15d236785aec</data>
+      <data key="d4">AIC.pdf</data>
+      <data key="d5">1762636869</data>
+      <data key="d6" />
+    </node>
+    <node id="Captions">
+      <data key="d0">Captions</data>
+      <data key="d1">content</data>
+      <data key="d2">The text within the captions of the image.</data>
+      <data key="d3">chunk-738d8975c0fd394f3ad86c6e47f2c837</data>
+      <data key="d4">AIC.pdf</data>
+      <data key="d5">1762636869</data>
+      <data key="d6" />
+    </node>
+    <node id="Issue Tracking System">
+      <data key="d0">Issue Tracking System</data>
+      <data key="d1">system</data>
+      <data key="d2">Issue tracking systems are used for software maintenance and help manage issue reports.</data>
+      <data key="d3">chunk-113d9fad8dae4122ba11cdc4471817cf</data>
+      <data key="d4">AIC.pdf</data>
+      <data key="d5">1762636869</data>
+      <data key="d6" />
+    </node>
+    <node id="Software Maintenance">
+      <data key="d0">Software Maintenance</data>
+      <data key="d1">process</data>
+      <data key="d2">Software maintenance is the process of modifying a software application after its initial release to correct faults, improve performance, or adapt to changes in requirements.</data>
+      <data key="d3">chunk-113d9fad8dae4122ba11cdc4471817cf</data>
+      <data key="d4">AIC.pdf</data>
+      <data key="d5">1762636869</data>
+      <data key="d6" />
+    </node>
+    <node id="Labeling Issue Reports">
+      <data key="d0">Labeling Issue Reports</data>
+      <data key="d1">process</data>
+      <data key="d2">Labeling issue reports is the process of categorizing issue reports in an issue tracking system.</data>
+      <data key="d3">chunk-113d9fad8dae4122ba11cdc4471817cf</data>
+      <data key="d4">AIC.pdf</data>
+      <data key="d5">1762636869</data>
+      <data key="d6" />
+    </node>
+    <node id="Optional Labels">
+      <data key="d0">Optional Labels</data>
+      <data key="d1">property</data>
+      <data key="d2">Optional labels allow issue submitters to provide additional context or categorization for their issue reports.</data>
+      <data key="d3">chunk-113d9fad8dae4122ba11cdc4471817cf</data>
+      <data key="d4">AIC.pdf</data>
+      <data key="d5">1762636869</data>
+      <data key="d6" />
+    </node>
+    <node id="Inconsistent Labels">
+      <data key="d0">Inconsistent Labels</data>
+      <data key="d1">property</data>
+      <data key="d2">Inconsistent labels can make it difficult to effectively track and manage issue reports.</data>
+      <data key="d3">chunk-113d9fad8dae4122ba11cdc4471817cf</data>
+      <data key="d4">AIC.pdf</data>
+      <data key="d5">1762636869</data>
+      <data key="d6" />
+    </node>
+    <node id="Transformer-Based Model">
+      <data key="d0">Transformer-Based Model</data>
+      <data key="d1">method</data>
+      <data key="d2">A transformer-based model is a type of machine learning model used for natural language processing tasks.</data>
+      <data key="d3">chunk-113d9fad8dae4122ba11cdc4471817cf</data>
+      <data key="d4">AIC.pdf</data>
+      <data key="d5">1762636869</data>
+      <data key="d6" />
+    </node>
+    <node id="Approximately 55,000 Issue Reports">
+      <data key="d0">Approximately 55,000 Issue Reports</data>
+      <data key="d1">quantity</data>
+      <data key="d2">Approximately 55,000 issue reports were used to evaluate the transformer-based model's performance.</data>
+      <data key="d3">chunk-113d9fad8dae4122ba11cdc4471817cf</data>
+      <data key="d4">AIC.pdf</data>
+      <data key="d5">1762636869</data>
+      <data key="d6" />
+    </node>
+    <node id="Effective Tracking of Issue Reports">
+      <data key="d0">Effective Tracking of Issue Reports</data>
+      <data key="d1">benefit</data>
+      <data key="d2">Effective tracking of issue reports helps teams manage and prioritize their work more efficiently.</data>
+      <data key="d3">chunk-113d9fad8dae4122ba11cdc4471817cf</data>
+      <data key="d4">AIC.pdf</data>
+      <data key="d5">1762636869</data>
+      <data key="d6" />
+    </node>
+    <node id="Efficient Development Documentation">
+      <data key="d0">Efficient Development Documentation</data>
+      <data key="d1">benefit</data>
+      <data key="d2">Efficient development documentation helps teams maintain a clear record of their work and makes it easier for new team members to understand the project's history.</data>
+      <data key="d3">chunk-113d9fad8dae4122ba11cdc4471817cf</data>
+      <data key="d4">AIC.pdf</data>
+      <data key="d5">1762636869</data>
+      <data key="d6" />
+    </node>
+    <node id="Optimized Resource Allocation">
+      <data key="d0">Optimized Resource Allocation</data>
+      <data key="d1">benefit</data>
+      <data key="d2">Optimized resource allocation helps teams make the most of their resources and ensures that they are working on the most important tasks.</data>
+      <data key="d3">chunk-113d9fad8dae4122ba11cdc4471817cf</data>
+      <data key="d4">AIC.pdf</data>
+      <data key="d5">1762636869</data>
+      <data key="d6" />
+    </node>
+    <node id="USBhost">
+      <data key="d0">USBhost</data>
+      <data key="d1">content</data>
+      <data key="d2">USBhost is a content item discussed in the table, with potential additional functions for reading a USB keyboard.</data>
+      <data key="d3">chunk-826774d1fade6f54d767df535aef4adb</data>
+      <data key="d4">AIC.pdf</data>
+      <data key="d5">1762636869</data>
+      <data key="d6" />
+    </node>
+    <node id="kbhit">
+      <data key="d0">kbhit</data>
+      <data key="d1">method</data>
+      <data key="d2">kbhit is a method that can be used to check if a key has been pressed on a USB keyboard.</data>
+      <data key="d3">chunk-826774d1fade6f54d767df535aef4adb</data>
+      <data key="d4">AIC.pdf</data>
+      <data key="d5">1762636869</data>
+      <data key="d6" />
+    </node>
+    <node id="getch">
+      <data key="d0">getch</data>
+      <data key="d1">method</data>
+      <data key="d2">getch is a method that can be used to read a single character from a USB keyboard.</data>
+      <data key="d3">chunk-826774d1fade6f54d767df535aef4adb</data>
+      <data key="d4">AIC.pdf</data>
+      <data key="d5">1762636869</data>
+      <data key="d6" />
+    </node>
+    <node id="getche">
+      <data key="d0">getche</data>
+      <data key="d1">method</data>
+      <data key="d2">getche is a method that can be used to read a single character from a USB keyboard, without echoing the character to the console.</data>
+      <data key="d3">chunk-826774d1fade6f54d767df535aef4adb</data>
+      <data key="d4">AIC.pdf</data>
+      <data key="d5">1762636869</data>
+      <data key="d6" />
+    </node>
+    <node id="getchar">
+      <data key="d0">getchar</data>
+      <data key="d1">method</data>
+      <data key="d2">getchar is a method that can be used to read a single character from a USB keyboard.</data>
+      <data key="d3">chunk-826774d1fade6f54d767df535aef4adb</data>
+      <data key="d4">AIC.pdf</data>
+      <data key="d5">1762636869</data>
+      <data key="d6" />
+    </node>
+    <node id="gets">
+      <data key="d0">gets</data>
+      <data key="d1">method</data>
+      <data key="d2">gets is a method that can be used to read a line of input from a USB keyboard.</data>
+      <data key="d3">chunk-826774d1fade6f54d767df535aef4adb</data>
+      <data key="d4">AIC.pdf</data>
+      <data key="d5">1762636869</data>
+      <data key="d6" />
+    </node>
+    <node id="scanf">
+      <data key="d0">scanf</data>
+      <data key="d1">method</data>
+      <data key="d2">scanf is a method that can be used to read formatted input from a USB keyboard.</data>
+      <data key="d3">chunk-826774d1fade6f54d767df535aef4adb</data>
+      <data key="d4">AIC.pdf</data>
+      <data key="d5">1762636869</data>
+      <data key="d6" />
+    </node>
+    <node id="bug">
+      <data key="d0">bug</data>
+      <data key="d1">concept</data>
+      <data key="d2">bug refers to an issue or error in the functionality of USBhost.</data>
+      <data key="d3">chunk-826774d1fade6f54d767df535aef4adb</data>
+      <data key="d4">AIC.pdf</data>
+      <data key="d5">1762636869</data>
+      <data key="d6" />
+    </node>
+    <node id="enhancement">
+      <data key="d0">enhancement</data>
+      <data key="d1">concept</data>
+      <data key="d2">enhancement refers to a suggested improvement or additional feature for USBhost.</data>
+      <data key="d3">chunk-826774d1fade6f54d767df535aef4adb</data>
+      <data key="d4">AIC.pdf</data>
+      <data key="d5">1762636869</data>
+      <data key="d6" />
+    </node>
+    <node id="Analysis">
+      <data key="d0">Analysis</data>
+      <data key="d3">chunk-a29416a7e3aef43f24a9ab19e3665112&lt;SEP&gt;chunk-eba9b95cdc4c3ee9638d12437e55cfea</data>
+      <data key="d2">The TABLE III event is being analyzed for its evaluation results.</data>
+      <data key="d1">UNKNOWN</data>
+      <data key="d4">AIC.pdf</data>
+      <data key="d5">1762636870</data>
+      <data key="d6" />
+    </node>
+    <node id="Research Paper">
+      <data key="d0">Research Paper</data>
+      <data key="d3">chunk-e21c9f03777f97b1c769d40045c4fb6f</data>
+      <data key="d2">The Automatic Issue Classifier is a research paper that presents a transformer-based approach for classifying GitHub issue reports.</data>
+      <data key="d1">UNKNOWN</data>
+      <data key="d4">AIC.pdf</data>
+      <data key="d5">1762636870</data>
+      <data key="d6" />
+    </node>
+    <node id="Content">
+      <data key="d0">Content</data>
+      <data key="d3">chunk-7d57bbcbda778268aaed3550310c8c61&lt;SEP&gt;chunk-0503b9cff8585d18d3c74d988806f900&lt;SEP&gt;chunk-f486808058f4365b598bba0c8214a67a</data>
+      <data key="d2">The Discarded Content Analysis provides details about the discarded content, including its type, text, bbox, and page_idx.&lt;SEP&gt;The Discarded Content Analysis is an analysis of the specified content.&lt;SEP&gt;The Discarded Content Analysis is focused on the discarded content mentioned in the text.</data>
+      <data key="d1">UNKNOWN</data>
+      <data key="d4">AIC.pdf</data>
+      <data key="d5">1762636870</data>
+      <data key="d6" />
+    </node>
+    <node id="User">
+      <data key="d0">User</data>
+      <data key="d3">chunk-8af302727f7bee7137fd6c686c2bf223</data>
+      <data key="d2">AIC requires a user to create an issue on a repository integrated with AIC.</data>
+      <data key="d1">UNKNOWN</data>
+      <data key="d4">AIC.pdf</data>
+      <data key="d5">1762636870</data>
+      <data key="d6" />
+    </node>
+    <node id="kbhit()">
+      <data key="d0">kbhit()</data>
+      <data key="d3">chunk-826774d1fade6f54d767df535aef4adb</data>
+      <data key="d2">The USBhost software can read input using the kbhit() function.</data>
+      <data key="d1">UNKNOWN</data>
+      <data key="d4">AIC.pdf</data>
+      <data key="d5">1762636871</data>
+      <data key="d6" />
+    </node>
+    <node id="getch()">
+      <data key="d0">getch()</data>
+      <data key="d3">chunk-826774d1fade6f54d767df535aef4adb</data>
+      <data key="d2">The USBhost software can read input using the getch() function.</data>
+      <data key="d1">UNKNOWN</data>
+      <data key="d4">AIC.pdf</data>
+      <data key="d5">1762636871</data>
+      <data key="d6" />
+    </node>
+    <node id="getche()">
+      <data key="d0">getche()</data>
+      <data key="d3">chunk-826774d1fade6f54d767df535aef4adb</data>
+      <data key="d2">The USBhost software can read input using the getche() function.</data>
+      <data key="d1">UNKNOWN</data>
+      <data key="d4">AIC.pdf</data>
+      <data key="d5">1762636871</data>
+      <data key="d6" />
+    </node>
+    <node id="getchar()">
+      <data key="d0">getchar()</data>
+      <data key="d3">chunk-826774d1fade6f54d767df535aef4adb</data>
+      <data key="d2">The USBhost software can read input using the getchar() function.</data>
+      <data key="d1">UNKNOWN</data>
+      <data key="d4">AIC.pdf</data>
+      <data key="d5">1762636871</data>
+      <data key="d6" />
+    </node>
+    <node id="gets()">
+      <data key="d0">gets()</data>
+      <data key="d3">chunk-826774d1fade6f54d767df535aef4adb</data>
+      <data key="d2">The USBhost software can read input using the gets() function.</data>
+      <data key="d1">UNKNOWN</data>
+      <data key="d4">AIC.pdf</data>
+      <data key="d5">1762636871</data>
+      <data key="d6" />
+    </node>
+    <node id="scanf()">
+      <data key="d0">scanf()</data>
+      <data key="d3">chunk-826774d1fade6f54d767df535aef4adb</data>
+      <data key="d2">The USBhost software can read input using the scanf() function.</data>
+      <data key="d1">UNKNOWN</data>
+      <data key="d4">AIC.pdf</data>
+      <data key="d5">1762636872</data>
+      <data key="d6" />
+    </node>
+    <edge source="Chawla et al." target="Fuzzy Logic based system">
+      <data key="d7">1.0</data>
+      <data key="d8">Chawla et al. proposed an automated approach to categorize issue reports using a Fuzzy Logic based system.</data>
+      <data key="d9">issue classification,research</data>
+      <data key="d10">chunk-c2973796c324e403d47ff69ddbd820cb</data>
+      <data key="d11">AIC.pdf</data>
+      <data key="d12">1762636341</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Chawla et al." target="HTTPClient, Jackrabbit, and Lucene">
+      <data key="d7">1.0</data>
+      <data key="d8">Chawla et al. evaluated their model on issue reports from HTTPClient, Jackrabbit, and Lucene.</data>
+      <data key="d9">issue classification,research</data>
+      <data key="d10">chunk-c2973796c324e403d47ff69ddbd820cb</data>
+      <data key="d11">AIC.pdf</data>
+      <data key="d12">1762636341</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Chawla et al." target="F-1 score">
+      <data key="d7">1.0</data>
+      <data key="d8">Chawla et al. achieved an F-1 score of 0.83, 0.79, 0.84 for the three repositories, respectively.</data>
+      <data key="d9">issue classification,research</data>
+      <data key="d10">chunk-c2973796c324e403d47ff69ddbd820cb</data>
+      <data key="d11">AIC.pdf</data>
+      <data key="d12">1762636341</data>
+      <data key="d13" />
+    </edge>
+    <edge source="RoBERTa" target="Transformer-based Model">
+      <data key="d7">1.0</data>
+      <data key="d8">RoBERTa is a specific transformer-based model used for issue classification.</data>
+      <data key="d9">natural language processing,specific model</data>
+      <data key="d10">chunk-b4b083475e833e19dd940e33120eff49</data>
+      <data key="d11">AIC.pdf</data>
+      <data key="d12">1762636341</data>
+      <data key="d13" />
+    </edge>
+    <edge source="RoBERTa" target="GitHub Issue Report Classification Approach (discarded)">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity RoBERTa belongs to GitHub Issue Report Classification Approach (discarded)</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-113d9fad8dae4122ba11cdc4471817cf</data>
+      <data key="d11">data/raw_pdfs/AIC.pdf</data>
+      <data key="d12">1762636871</data>
+      <data key="d13" />
+    </edge>
+    <edge source="GitHub" target="Issue Report">
+      <data key="d7">2.0</data>
+      <data key="d8">GitHub provides a platform for managing issue reports.&lt;SEP&gt;GitHub offers an issue tracking system for users to submit reports.</data>
+      <data key="d9">content management,hosting service,service,user-submitted communication</data>
+      <data key="d10">chunk-b4b083475e833e19dd940e33120eff49&lt;SEP&gt;chunk-113d9fad8dae4122ba11cdc4471817cf</data>
+      <data key="d11">AIC.pdf</data>
+      <data key="d12">1762636871</data>
+      <data key="d13" />
+    </edge>
+    <edge source="GitHub" target="Issue Tracking System">
+      <data key="d7">1.0</data>
+      <data key="d8">GitHub offers an issue tracking system for software maintenance.</data>
+      <data key="d9">provider,software service</data>
+      <data key="d10">chunk-113d9fad8dae4122ba11cdc4471817cf</data>
+      <data key="d11">AIC.pdf</data>
+      <data key="d12">1762636871</data>
+      <data key="d13" />
+    </edge>
+    <edge source="GitHub" target="GitHub Issue Report Classification Approach (discarded)">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity GitHub belongs to GitHub Issue Report Classification Approach (discarded)</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-113d9fad8dae4122ba11cdc4471817cf</data>
+      <data key="d11">data/raw_pdfs/AIC.pdf</data>
+      <data key="d12">1762636871</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Issue Report" target="Bug">
+      <data key="d7">2.0</data>
+      <data key="d8">Bug is&lt;SEP&gt;Issue reports can be categorized as bug reports, describing problems or errors in a software system.</data>
+      <data key="d9">issue type,problem description,report type,software development</data>
+      <data key="d10">chunk-b4b083475e833e19dd940e33120eff49&lt;SEP&gt;chunk-113d9fad8dae4122ba11cdc4471817cf</data>
+      <data key="d11">AIC.pdf</data>
+      <data key="d12">1762636871</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Issue Report" target="AIC API">
+      <data key="d7">1.0</data>
+      <data key="d8">AIC API predicts the issues based on the text in the issue report.</data>
+      <data key="d9">issue prediction,text analysis</data>
+      <data key="d10">chunk-8af302727f7bee7137fd6c686c2bf223</data>
+      <data key="d11">AIC.pdf</data>
+      <data key="d12">1762636871</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Issue Report" target="image_d41d8cd98f00b204e9800998ecf8427e">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity Issue Report belongs to image_d41d8cd98f00b204e9800998ecf8427e</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-8af302727f7bee7137fd6c686c2bf223</data>
+      <data key="d11">data/raw_pdfs/AIC.pdf</data>
+      <data key="d12">1762636871</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Issue Report" target="Question">
+      <data key="d7">1.0</data>
+      <data key="d8">Issue reports can also be categorized as question reports, seeking clarification or information about a software system.</data>
+      <data key="d9">information request,report type</data>
+      <data key="d10">chunk-113d9fad8dae4122ba11cdc4471817cf</data>
+      <data key="d11">AIC.pdf</data>
+      <data key="d12">1762636871</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Issue Report" target="Enhancement">
+      <data key="d7">1.0</data>
+      <data key="d8">Issue reports can also be categorized as enhancement reports, suggesting improvements or new features for a software system.</data>
+      <data key="d9">improvement suggestion,report type</data>
+      <data key="d10">chunk-113d9fad8dae4122ba11cdc4471817cf</data>
+      <data key="d11">AIC.pdf</data>
+      <data key="d12">1762636871</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Issue Report" target="GitHub Issue Report Classification Approach (discarded)">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity Issue Report belongs to GitHub Issue Report Classification Approach (discarded)</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-113d9fad8dae4122ba11cdc4471817cf</data>
+      <data key="d11">data/raw_pdfs/AIC.pdf</data>
+      <data key="d12">1762636871</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Transformer-based Model" target="Issue Classification">
+      <data key="d7">1.0</data>
+      <data key="d8">Transformer-based models are used for issue classification.</data>
+      <data key="d9">method,natural language processing</data>
+      <data key="d10">chunk-b4b083475e833e19dd940e33120eff49</data>
+      <data key="d11">AIC.pdf</data>
+      <data key="d12">1762636341</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Bug" target="Issue Tracking System">
+      <data key="d7">1.0</data>
+      <data key="d8">Bugs are a type of issue report in GitHub's issue tracking system.</data>
+      <data key="d9">category,issue type</data>
+      <data key="d10">chunk-113d9fad8dae4122ba11cdc4471817cf</data>
+      <data key="d11">AIC.pdf</data>
+      <data key="d12">1762636871</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Bug" target="GitHub Issue Report Classification Approach (discarded)">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity Bug belongs to GitHub Issue Report Classification Approach (discarded)</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-113d9fad8dae4122ba11cdc4471817cf</data>
+      <data key="d11">data/raw_pdfs/AIC.pdf</data>
+      <data key="d12">1762636871</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Enhancement" target="Issue Tracking System">
+      <data key="d7">1.0</data>
+      <data key="d8">Enhancements are a type of issue report in GitHub's issue tracking system.</data>
+      <data key="d9">category,issue type</data>
+      <data key="d10">chunk-113d9fad8dae4122ba11cdc4471817cf</data>
+      <data key="d11">AIC.pdf</data>
+      <data key="d12">1762636871</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Enhancement" target="GitHub Issue Report Classification Approach (discarded)">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity Enhancement belongs to GitHub Issue Report Classification Approach (discarded)</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-113d9fad8dae4122ba11cdc4471817cf</data>
+      <data key="d11">data/raw_pdfs/AIC.pdf</data>
+      <data key="d12">1762636871</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Question" target="Issue Tracking System">
+      <data key="d7">1.0</data>
+      <data key="d8">Questions are a type of issue report in GitHub's issue tracking system.</data>
+      <data key="d9">category,issue type</data>
+      <data key="d10">chunk-113d9fad8dae4122ba11cdc4471817cf</data>
+      <data key="d11">AIC.pdf</data>
+      <data key="d12">1762636871</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Question" target="GitHub Issue Report Classification Approach (discarded)">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity Question belongs to GitHub Issue Report Classification Approach (discarded)</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-113d9fad8dae4122ba11cdc4471817cf</data>
+      <data key="d11">data/raw_pdfs/AIC.pdf</data>
+      <data key="d12">1762636871</data>
+      <data key="d13" />
+    </edge>
+    <edge source="F1-Score" target="Category">
+      <data key="d7">1.0</data>
+      <data key="d8">The F1-Score of each category is presented as part of the table analysis content.</data>
+      <data key="d9">performance metric</data>
+      <data key="d10">chunk-a29416a7e3aef43f24a9ab19e3665112</data>
+      <data key="d11">AIC.pdf</data>
+      <data key="d12">1762636870</data>
+      <data key="d13" />
+    </edge>
+    <edge source="F1-Score" target="table_d41d8cd98f00b204e9800998ecf8427e">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity F1-Score belongs to table_d41d8cd98f00b204e9800998ecf8427e</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-a29416a7e3aef43f24a9ab19e3665112</data>
+      <data key="d11">data/raw_pdfs/AIC.pdf</data>
+      <data key="d12">1762636870</data>
+      <data key="d13" />
+    </edge>
+    <edge source="55 Popular Languages" target="GitHub Issue Report Classification Approach (discarded)">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity 55 Popular Languages belongs to GitHub Issue Report Classification Approach (discarded)</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-113d9fad8dae4122ba11cdc4471817cf</data>
+      <data key="d11">data/raw_pdfs/AIC.pdf</data>
+      <data key="d12">1762636871</data>
+      <data key="d13" />
+    </edge>
+    <edge source="GitHub Issue Report Classification Approach (discarded)" target="Issue Tracking System">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity Issue Tracking System belongs to GitHub Issue Report Classification Approach (discarded)</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-113d9fad8dae4122ba11cdc4471817cf</data>
+      <data key="d11">data/raw_pdfs/AIC.pdf</data>
+      <data key="d12">1762636871</data>
+      <data key="d13" />
+    </edge>
+    <edge source="GitHub Issue Report Classification Approach (discarded)" target="Software Maintenance">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity Software Maintenance belongs to GitHub Issue Report Classification Approach (discarded)</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-113d9fad8dae4122ba11cdc4471817cf</data>
+      <data key="d11">data/raw_pdfs/AIC.pdf</data>
+      <data key="d12">1762636871</data>
+      <data key="d13" />
+    </edge>
+    <edge source="GitHub Issue Report Classification Approach (discarded)" target="Labeling Issue Reports">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity Labeling Issue Reports belongs to GitHub Issue Report Classification Approach (discarded)</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-113d9fad8dae4122ba11cdc4471817cf</data>
+      <data key="d11">data/raw_pdfs/AIC.pdf</data>
+      <data key="d12">1762636871</data>
+      <data key="d13" />
+    </edge>
+    <edge source="GitHub Issue Report Classification Approach (discarded)" target="Optional Labels">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity Optional Labels belongs to GitHub Issue Report Classification Approach (discarded)</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-113d9fad8dae4122ba11cdc4471817cf</data>
+      <data key="d11">data/raw_pdfs/AIC.pdf</data>
+      <data key="d12">1762636871</data>
+      <data key="d13" />
+    </edge>
+    <edge source="GitHub Issue Report Classification Approach (discarded)" target="Inconsistent Labels">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity Inconsistent Labels belongs to GitHub Issue Report Classification Approach (discarded)</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-113d9fad8dae4122ba11cdc4471817cf</data>
+      <data key="d11">data/raw_pdfs/AIC.pdf</data>
+      <data key="d12">1762636871</data>
+      <data key="d13" />
+    </edge>
+    <edge source="GitHub Issue Report Classification Approach (discarded)" target="Transformer-Based Model">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity Transformer-Based Model belongs to GitHub Issue Report Classification Approach (discarded)</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-113d9fad8dae4122ba11cdc4471817cf</data>
+      <data key="d11">data/raw_pdfs/AIC.pdf</data>
+      <data key="d12">1762636871</data>
+      <data key="d13" />
+    </edge>
+    <edge source="GitHub Issue Report Classification Approach (discarded)" target="Approximately 55,000 Issue Reports">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity Approximately 55,000 Issue Reports belongs to GitHub Issue Report Classification Approach (discarded)</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-113d9fad8dae4122ba11cdc4471817cf</data>
+      <data key="d11">data/raw_pdfs/AIC.pdf</data>
+      <data key="d12">1762636871</data>
+      <data key="d13" />
+    </edge>
+    <edge source="GitHub Issue Report Classification Approach (discarded)" target="Effective Tracking of Issue Reports">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity Effective Tracking of Issue Reports belongs to GitHub Issue Report Classification Approach (discarded)</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-113d9fad8dae4122ba11cdc4471817cf</data>
+      <data key="d11">data/raw_pdfs/AIC.pdf</data>
+      <data key="d12">1762636871</data>
+      <data key="d13" />
+    </edge>
+    <edge source="GitHub Issue Report Classification Approach (discarded)" target="Efficient Development Documentation">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity Efficient Development Documentation belongs to GitHub Issue Report Classification Approach (discarded)</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-113d9fad8dae4122ba11cdc4471817cf</data>
+      <data key="d11">data/raw_pdfs/AIC.pdf</data>
+      <data key="d12">1762636871</data>
+      <data key="d13" />
+    </edge>
+    <edge source="GitHub Issue Report Classification Approach (discarded)" target="Optimized Resource Allocation">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity Optimized Resource Allocation belongs to GitHub Issue Report Classification Approach (discarded)</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-113d9fad8dae4122ba11cdc4471817cf</data>
+      <data key="d11">data/raw_pdfs/AIC.pdf</data>
+      <data key="d12">1762636871</data>
+      <data key="d13" />
+    </edge>
+    <edge source="discarded_4a7f15b96eac416497ad7b7bb89a4867" target="Automatic Issue Classifier">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity Automatic Issue Classifier belongs to discarded_4a7f15b96eac416497ad7b7bb89a4867</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-e21c9f03777f97b1c769d40045c4fb6f</data>
+      <data key="d11">data/raw_pdfs/AIC.pdf</data>
+      <data key="d12">1762636870</data>
+      <data key="d13" />
+    </edge>
+    <edge source="discarded_4a7f15b96eac416497ad7b7bb89a4867" target="Automatic Issue Classifier: A Transfer Learning Framework for Classifying Issue Reports">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity Automatic Issue Classifier: A Transfer Learning Framework for Classifying Issue Reports belongs to discarded_4a7f15b96eac416497ad7b7bb89a4867</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-e21c9f03777f97b1c769d40045c4fb6f</data>
+      <data key="d11">data/raw_pdfs/AIC.pdf</data>
+      <data key="d12">1762636870</data>
+      <data key="d13" />
+    </edge>
+    <edge source="image_d41d8cd98f00b204e9800998ecf8427e" target="Repository">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity Repository belongs to image_d41d8cd98f00b204e9800998ecf8427e</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-8af302727f7bee7137fd6c686c2bf223</data>
+      <data key="d11">data/raw_pdfs/AIC.pdf</data>
+      <data key="d12">1762636871</data>
+      <data key="d13" />
+    </edge>
+    <edge source="image_d41d8cd98f00b204e9800998ecf8427e" target="Issue">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity Issue belongs to image_d41d8cd98f00b204e9800998ecf8427e</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-8af302727f7bee7137fd6c686c2bf223</data>
+      <data key="d11">data/raw_pdfs/AIC.pdf</data>
+      <data key="d12">1762636871</data>
+      <data key="d13" />
+    </edge>
+    <edge source="image_d41d8cd98f00b204e9800998ecf8427e" target="AIC">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity AIC belongs to image_d41d8cd98f00b204e9800998ecf8427e</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-8af302727f7bee7137fd6c686c2bf223</data>
+      <data key="d11">data/raw_pdfs/AIC.pdf</data>
+      <data key="d12">1762636871</data>
+      <data key="d13" />
+    </edge>
+    <edge source="image_d41d8cd98f00b204e9800998ecf8427e" target="Label">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity Label belongs to image_d41d8cd98f00b204e9800998ecf8427e</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-8af302727f7bee7137fd6c686c2bf223</data>
+      <data key="d11">data/raw_pdfs/AIC.pdf</data>
+      <data key="d12">1762636871</data>
+      <data key="d13" />
+    </edge>
+    <edge source="image_d41d8cd98f00b204e9800998ecf8427e" target="Fig. 1">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity Fig. 1 belongs to image_d41d8cd98f00b204e9800998ecf8427e</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-606004bda14ff333243e15d236785aec</data>
+      <data key="d11">data/raw_pdfs/AIC.pdf</data>
+      <data key="d12">1762636871</data>
+      <data key="d13" />
+    </edge>
+    <edge source="image_d41d8cd98f00b204e9800998ecf8427e" target="Image Content Analysis">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity Image Content Analysis belongs to image_d41d8cd98f00b204e9800998ecf8427e</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-606004bda14ff333243e15d236785aec</data>
+      <data key="d11">data/raw_pdfs/AIC.pdf</data>
+      <data key="d12">1762636871</data>
+      <data key="d13" />
+    </edge>
+    <edge source="image_d41d8cd98f00b204e9800998ecf8427e" target="/home/ubuntu/agentic_rag/data/graph/raganything_storage/AIC/auto/images/ead42c6eb9236478a92f2d7d2dbf3dce50b012f3aaa2adb90814bcaff1461644.jpg">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity /home/ubuntu/agentic_rag/data/graph/raganything_storage/AIC/auto/images/ead42c6eb9236478a92f2d7d2dbf3dce50b012f3aaa2adb90814bcaff1461644.jpg belongs to image_d41d8cd98f00b204e9800998ecf8427e</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-606004bda14ff333243e15d236785aec</data>
+      <data key="d11">data/raw_pdfs/AIC.pdf</data>
+      <data key="d12">1762636871</data>
+      <data key="d13" />
+    </edge>
+    <edge source="image_d41d8cd98f00b204e9800998ecf8427e" target="Image Path">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity Image Path belongs to image_d41d8cd98f00b204e9800998ecf8427e</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-738d8975c0fd394f3ad86c6e47f2c837</data>
+      <data key="d11">data/raw_pdfs/AIC.pdf</data>
+      <data key="d12">1762636871</data>
+      <data key="d13" />
+    </edge>
+    <edge source="image_d41d8cd98f00b204e9800998ecf8427e" target="AIC API">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity AIC API belongs to image_d41d8cd98f00b204e9800998ecf8427e</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-8af302727f7bee7137fd6c686c2bf223</data>
+      <data key="d11">data/raw_pdfs/AIC.pdf</data>
+      <data key="d12">1762636871</data>
+      <data key="d13" />
+    </edge>
+    <edge source="image_d41d8cd98f00b204e9800998ecf8427e" target="Captions">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity Captions belongs to image_d41d8cd98f00b204e9800998ecf8427e</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-738d8975c0fd394f3ad86c6e47f2c837</data>
+      <data key="d11">data/raw_pdfs/AIC.pdf</data>
+      <data key="d12">1762636871</data>
+      <data key="d13" />
+    </edge>
+    <edge source="image_d41d8cd98f00b204e9800998ecf8427e" target="Footnotes">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity Footnotes belongs to image_d41d8cd98f00b204e9800998ecf8427e</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-738d8975c0fd394f3ad86c6e47f2c837</data>
+      <data key="d11">data/raw_pdfs/AIC.pdf</data>
+      <data key="d12">1762636871</data>
+      <data key="d13" />
+    </edge>
+    <edge source="image_d41d8cd98f00b204e9800998ecf8427e" target="Automatic Issue Classifier">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity Automatic Issue Classifier belongs to image_d41d8cd98f00b204e9800998ecf8427e</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-738d8975c0fd394f3ad86c6e47f2c837</data>
+      <data key="d11">data/raw_pdfs/AIC.pdf</data>
+      <data key="d12">1762636871</data>
+      <data key="d13" />
+    </edge>
+    <edge source="table_d41d8cd98f00b204e9800998ecf8427e" target="Table Analysis">
+      <data key="d7">20.0</data>
+      <data key="d8">Entity Table Analysis belongs to table_d41d8cd98f00b204e9800998ecf8427e</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-a29416a7e3aef43f24a9ab19e3665112&lt;SEP&gt;chunk-7255a4db9ea98458afae7848b6f9d7bd</data>
+      <data key="d11">data/raw_pdfs/AIC.pdf</data>
+      <data key="d12">1762636870</data>
+      <data key="d13" />
+    </edge>
+    <edge source="table_d41d8cd98f00b204e9800998ecf8427e" target="Image Path">
+      <data key="d7">20.0</data>
+      <data key="d8">Entity Image Path belongs to table_d41d8cd98f00b204e9800998ecf8427e</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-a29416a7e3aef43f24a9ab19e3665112&lt;SEP&gt;chunk-7255a4db9ea98458afae7848b6f9d7bd</data>
+      <data key="d11">data/raw_pdfs/AIC.pdf</data>
+      <data key="d12">1762636870</data>
+      <data key="d13" />
+    </edge>
+    <edge source="table_d41d8cd98f00b204e9800998ecf8427e" target="Caption">
+      <data key="d7">20.0</data>
+      <data key="d8">Entity Caption belongs to table_d41d8cd98f00b204e9800998ecf8427e</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-a29416a7e3aef43f24a9ab19e3665112&lt;SEP&gt;chunk-7255a4db9ea98458afae7848b6f9d7bd</data>
+      <data key="d11">data/raw_pdfs/AIC.pdf</data>
+      <data key="d12">1762636870</data>
+      <data key="d13" />
+    </edge>
+    <edge source="table_d41d8cd98f00b204e9800998ecf8427e" target="Structure">
+      <data key="d7">20.0</data>
+      <data key="d8">Entity Structure belongs to table_d41d8cd98f00b204e9800998ecf8427e</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-a29416a7e3aef43f24a9ab19e3665112&lt;SEP&gt;chunk-7255a4db9ea98458afae7848b6f9d7bd</data>
+      <data key="d11">data/raw_pdfs/AIC.pdf</data>
+      <data key="d12">1762636870</data>
+      <data key="d13" />
+    </edge>
+    <edge source="table_d41d8cd98f00b204e9800998ecf8427e" target="Precision">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity Precision belongs to table_d41d8cd98f00b204e9800998ecf8427e</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-a29416a7e3aef43f24a9ab19e3665112</data>
+      <data key="d11">data/raw_pdfs/AIC.pdf</data>
+      <data key="d12">1762636870</data>
+      <data key="d13" />
+    </edge>
+    <edge source="table_d41d8cd98f00b204e9800998ecf8427e" target="Recall">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity Recall belongs to table_d41d8cd98f00b204e9800998ecf8427e</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-a29416a7e3aef43f24a9ab19e3665112</data>
+      <data key="d11">data/raw_pdfs/AIC.pdf</data>
+      <data key="d12">1762636870</data>
+      <data key="d13" />
+    </edge>
+    <edge source="table_d41d8cd98f00b204e9800998ecf8427e" target="Hamming Loss">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity Hamming Loss belongs to table_d41d8cd98f00b204e9800998ecf8427e</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-a29416a7e3aef43f24a9ab19e3665112</data>
+      <data key="d11">data/raw_pdfs/AIC.pdf</data>
+      <data key="d12">1762636870</data>
+      <data key="d13" />
+    </edge>
+    <edge source="table_d41d8cd98f00b204e9800998ecf8427e" target="Category">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity Category belongs to table_d41d8cd98f00b204e9800998ecf8427e</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-a29416a7e3aef43f24a9ab19e3665112</data>
+      <data key="d11">data/raw_pdfs/AIC.pdf</data>
+      <data key="d12">1762636870</data>
+      <data key="d13" />
+    </edge>
+    <edge source="table_d41d8cd98f00b204e9800998ecf8427e" target="TABLE III EVALUATION RESULTS OF OUR PROPOSED APPROACH">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity TABLE III EVALUATION RESULTS OF OUR PROPOSED APPROACH belongs to table_d41d8cd98f00b204e9800998ecf8427e</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-a29416a7e3aef43f24a9ab19e3665112</data>
+      <data key="d11">data/raw_pdfs/AIC.pdf</data>
+      <data key="d12">1762636870</data>
+      <data key="d13" />
+    </edge>
+    <edge source="table_d41d8cd98f00b204e9800998ecf8427e" target="TABLE III">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity TABLE III belongs to table_d41d8cd98f00b204e9800998ecf8427e</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-a29416a7e3aef43f24a9ab19e3665112</data>
+      <data key="d11">data/raw_pdfs/AIC.pdf</data>
+      <data key="d12">1762636870</data>
+      <data key="d13" />
+    </edge>
+    <edge source="table_d41d8cd98f00b204e9800998ecf8427e" target="Footnotes">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity Footnotes belongs to table_d41d8cd98f00b204e9800998ecf8427e</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-7255a4db9ea98458afae7848b6f9d7bd</data>
+      <data key="d11">data/raw_pdfs/AIC.pdf</data>
+      <data key="d12">1762636870</data>
+      <data key="d13" />
+    </edge>
+    <edge source="table_d41d8cd98f00b204e9800998ecf8427e" target="kbhit">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity kbhit belongs to table_d41d8cd98f00b204e9800998ecf8427e</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-826774d1fade6f54d767df535aef4adb</data>
+      <data key="d11">data/raw_pdfs/AIC.pdf</data>
+      <data key="d12">1762636871</data>
+      <data key="d13" />
+    </edge>
+    <edge source="table_d41d8cd98f00b204e9800998ecf8427e" target="getch">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity getch belongs to table_d41d8cd98f00b204e9800998ecf8427e</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-826774d1fade6f54d767df535aef4adb</data>
+      <data key="d11">data/raw_pdfs/AIC.pdf</data>
+      <data key="d12">1762636871</data>
+      <data key="d13" />
+    </edge>
+    <edge source="table_d41d8cd98f00b204e9800998ecf8427e" target="getche">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity getche belongs to table_d41d8cd98f00b204e9800998ecf8427e</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-826774d1fade6f54d767df535aef4adb</data>
+      <data key="d11">data/raw_pdfs/AIC.pdf</data>
+      <data key="d12">1762636871</data>
+      <data key="d13" />
+    </edge>
+    <edge source="table_d41d8cd98f00b204e9800998ecf8427e" target="getchar">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity getchar belongs to table_d41d8cd98f00b204e9800998ecf8427e</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-826774d1fade6f54d767df535aef4adb</data>
+      <data key="d11">data/raw_pdfs/AIC.pdf</data>
+      <data key="d12">1762636871</data>
+      <data key="d13" />
+    </edge>
+    <edge source="table_d41d8cd98f00b204e9800998ecf8427e" target="gets">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity gets belongs to table_d41d8cd98f00b204e9800998ecf8427e</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-826774d1fade6f54d767df535aef4adb</data>
+      <data key="d11">data/raw_pdfs/AIC.pdf</data>
+      <data key="d12">1762636871</data>
+      <data key="d13" />
+    </edge>
+    <edge source="table_d41d8cd98f00b204e9800998ecf8427e" target="scanf">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity scanf belongs to table_d41d8cd98f00b204e9800998ecf8427e</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-826774d1fade6f54d767df535aef4adb</data>
+      <data key="d11">data/raw_pdfs/AIC.pdf</data>
+      <data key="d12">1762636871</data>
+      <data key="d13" />
+    </edge>
+    <edge source="table_d41d8cd98f00b204e9800998ecf8427e" target="bug">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity bug belongs to table_d41d8cd98f00b204e9800998ecf8427e</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-826774d1fade6f54d767df535aef4adb</data>
+      <data key="d11">data/raw_pdfs/AIC.pdf</data>
+      <data key="d12">1762636871</data>
+      <data key="d13" />
+    </edge>
+    <edge source="table_d41d8cd98f00b204e9800998ecf8427e" target="enhancement">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity enhancement belongs to table_d41d8cd98f00b204e9800998ecf8427e</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-826774d1fade6f54d767df535aef4adb</data>
+      <data key="d11">data/raw_pdfs/AIC.pdf</data>
+      <data key="d12">1762636871</data>
+      <data key="d13" />
+    </edge>
+    <edge source="table_d41d8cd98f00b204e9800998ecf8427e" target="USBhost">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity USBhost belongs to table_d41d8cd98f00b204e9800998ecf8427e</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-826774d1fade6f54d767df535aef4adb</data>
+      <data key="d11">data/raw_pdfs/AIC.pdf</data>
+      <data key="d12">1762636872</data>
+      <data key="d13" />
+    </edge>
+    <edge source="discarded_d41d8cd98f00b204e9800998ecf8427e" target="Discarded Content Analysis">
+      <data key="d7">70.0</data>
+      <data key="d8">Entity Discarded Content Analysis belongs to discarded_d41d8cd98f00b204e9800998ecf8427e</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-eb6fe8008751caaaea3e81ac978d47e7&lt;SEP&gt;chunk-eba9b95cdc4c3ee9638d12437e55cfea&lt;SEP&gt;chunk-3592f65717df494dd148b907d8b5a446&lt;SEP&gt;chunk-7d57bbcbda778268aaed3550310c8c61&lt;SEP&gt;chunk-0503b9cff8585d18d3c74d988806f900&lt;SEP&gt;chunk-4ff801203138a10de021be3acaebe894&lt;SEP&gt;chunk-f486808058f4365b598bba0c8214a67a</data>
+      <data key="d11">data/raw_pdfs/AIC.pdf</data>
+      <data key="d12">1762636870</data>
+      <data key="d13" />
+    </edge>
+    <edge source="discarded_d41d8cd98f00b204e9800998ecf8427e" target="Discarded">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity Discarded belongs to discarded_d41d8cd98f00b204e9800998ecf8427e</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-eb6fe8008751caaaea3e81ac978d47e7</data>
+      <data key="d11">data/raw_pdfs/AIC.pdf</data>
+      <data key="d12">1762636870</data>
+      <data key="d13" />
+    </edge>
+    <edge source="discarded_d41d8cd98f00b204e9800998ecf8427e" target="Content Analysis">
+      <data key="d7">20.0</data>
+      <data key="d8">Entity Content Analysis belongs to discarded_d41d8cd98f00b204e9800998ecf8427e</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-eb6fe8008751caaaea3e81ac978d47e7&lt;SEP&gt;chunk-7d57bbcbda778268aaed3550310c8c61</data>
+      <data key="d11">data/raw_pdfs/AIC.pdf</data>
+      <data key="d12">1762636870</data>
+      <data key="d13" />
+    </edge>
+    <edge source="discarded_d41d8cd98f00b204e9800998ecf8427e" target="Discarded Content">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity Discarded Content belongs to discarded_d41d8cd98f00b204e9800998ecf8427e</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-eba9b95cdc4c3ee9638d12437e55cfea</data>
+      <data key="d11">data/raw_pdfs/AIC.pdf</data>
+      <data key="d12">1762636870</data>
+      <data key="d13" />
+    </edge>
+    <edge source="discarded_d41d8cd98f00b204e9800998ecf8427e" target="Automatic Issue Classifier">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity Automatic Issue Classifier belongs to discarded_d41d8cd98f00b204e9800998ecf8427e</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-4ff801203138a10de021be3acaebe894</data>
+      <data key="d11">data/raw_pdfs/AIC.pdf</data>
+      <data key="d12">1762636871</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Content Analysis" target="Discarded">
+      <data key="d7">1.0</data>
+      <data key="d8">Content Analysis involves identifying and discarding irrelevant or unimportant information.</data>
+      <data key="d9">exclusion,information processing</data>
+      <data key="d10">chunk-eb6fe8008751caaaea3e81ac978d47e7</data>
+      <data key="d11">AIC.pdf</data>
+      <data key="d12">1762636870</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Content Analysis" target="Discarded Content Analysis">
+      <data key="d7">1.0</data>
+      <data key="d8">The Discarded Content Analysis is a process that analyzes discarded content, such as the provided links.</data>
+      <data key="d9">analysis process,discarded content</data>
+      <data key="d10">chunk-3592f65717df494dd148b907d8b5a446</data>
+      <data key="d11">AIC.pdf</data>
+      <data key="d12">1762636870</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Content Analysis" target="Discarded Content">
+      <data key="d7">1.0</data>
+      <data key="d8">The Content Analysis process involves identifying and discarding irrelevant or unnecessary content.</data>
+      <data key="d9">content analysis,discarded content</data>
+      <data key="d10">chunk-7d57bbcbda778268aaed3550310c8c61</data>
+      <data key="d11">AIC.pdf</data>
+      <data key="d12">1762636870</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Discarded Content Analysis" target="Content">
+      <data key="d7">3.0</data>
+      <data key="d8">The Discarded Content Analysis provides details about the discarded content, including its type, text, bbox, and page_idx.&lt;SEP&gt;The Discarded Content Analysis is an analysis of the specified content.&lt;SEP&gt;The Discarded Content Analysis is focused on the discarded content mentioned in the text.</data>
+      <data key="d9">analysis,analysis subject,content details,content type,discarded content</data>
+      <data key="d10">chunk-7d57bbcbda778268aaed3550310c8c61&lt;SEP&gt;chunk-0503b9cff8585d18d3c74d988806f900&lt;SEP&gt;chunk-f486808058f4365b598bba0c8214a67a</data>
+      <data key="d11">AIC.pdf</data>
+      <data key="d12">1762636870</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Discarded Content Analysis" target="Automatic Issue Classifier">
+      <data key="d7">1.0</data>
+      <data key="d8">The Discarded Content Analysis refers to the analysis of content classified by the Automatic Issue Classifier.</data>
+      <data key="d9">content analysis,software tool</data>
+      <data key="d10">chunk-4ff801203138a10de021be3acaebe894</data>
+      <data key="d11">AIC.pdf</data>
+      <data key="d12">1762636871</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Table Analysis" target="Image Path">
+      <data key="d7">2.0</data>
+      <data key="d8">The table analysis is associated with the provided image.&lt;SEP&gt;The table analysis is associated with an image located at the specified path.</data>
+      <data key="d9">association,image description,table association</data>
+      <data key="d10">chunk-a29416a7e3aef43f24a9ab19e3665112&lt;SEP&gt;chunk-7255a4db9ea98458afae7848b6f9d7bd</data>
+      <data key="d11">AIC.pdf</data>
+      <data key="d12">1762636870</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Table Analysis" target="Caption">
+      <data key="d7">2.0</data>
+      <data key="d8">The table analysis is based on the information provided in the image caption.&lt;SEP&gt;The table analysis is associated with the specified caption.</data>
+      <data key="d9">association,image description,table content</data>
+      <data key="d10">chunk-a29416a7e3aef43f24a9ab19e3665112&lt;SEP&gt;chunk-7255a4db9ea98458afae7848b6f9d7bd</data>
+      <data key="d11">AIC.pdf</data>
+      <data key="d12">1762636870</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Table Analysis" target="Structure">
+      <data key="d7">2.0</data>
+      <data key="d8">The structure of the table is analyzed in the table analysis.&lt;SEP&gt;The structure of the table analysis is presented within the table analysis content.</data>
+      <data key="d9">analysis content,content organization,table organization</data>
+      <data key="d10">chunk-a29416a7e3aef43f24a9ab19e3665112&lt;SEP&gt;chunk-7255a4db9ea98458afae7848b6f9d7bd</data>
+      <data key="d11">AIC.pdf</data>
+      <data key="d12">1762636870</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Table Analysis" target="Category">
+      <data key="d7">1.0</data>
+      <data key="d8">The categories presented in the table analysis are part of the table analysis content.</data>
+      <data key="d9">classification</data>
+      <data key="d10">chunk-a29416a7e3aef43f24a9ab19e3665112</data>
+      <data key="d11">AIC.pdf</data>
+      <data key="d12">1762636870</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Table Analysis" target="Footnotes">
+      <data key="d7">1.0</data>
+      <data key="d8">Any additional notes or explanations provided at the bottom of the table are considered in the table analysis.</data>
+      <data key="d9">additional information,table analysis</data>
+      <data key="d10">chunk-7255a4db9ea98458afae7848b6f9d7bd</data>
+      <data key="d11">AIC.pdf</data>
+      <data key="d12">1762636870</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Image Path" target="Caption">
+      <data key="d7">1.0</data>
+      <data key="d8">The image path is associated with the image caption.</data>
+      <data key="d9">file path,image description</data>
+      <data key="d10">chunk-7255a4db9ea98458afae7848b6f9d7bd</data>
+      <data key="d11">AIC.pdf</data>
+      <data key="d12">1762636870</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Image Path" target="Automatic Issue Classifier">
+      <data key="d7">1.0</data>
+      <data key="d8">The Automatic Issue Classifier is used to analyze the image content.</data>
+      <data key="d9">image analysis,software tool</data>
+      <data key="d10">chunk-738d8975c0fd394f3ad86c6e47f2c837</data>
+      <data key="d11">AIC.pdf</data>
+      <data key="d12">1762636871</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Category" target="Precision">
+      <data key="d7">1.0</data>
+      <data key="d8">The precision of each category is presented as part of the table analysis content.</data>
+      <data key="d9">performance metric</data>
+      <data key="d10">chunk-a29416a7e3aef43f24a9ab19e3665112</data>
+      <data key="d11">AIC.pdf</data>
+      <data key="d12">1762636870</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Category" target="Recall">
+      <data key="d7">1.0</data>
+      <data key="d8">The recall of each category is presented as part of the table analysis content.</data>
+      <data key="d9">performance metric</data>
+      <data key="d10">chunk-a29416a7e3aef43f24a9ab19e3665112</data>
+      <data key="d11">AIC.pdf</data>
+      <data key="d12">1762636870</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Category" target="Hamming Loss">
+      <data key="d7">1.0</data>
+      <data key="d8">The Hamming Loss of each category is presented as part of the table analysis content.</data>
+      <data key="d9">performance metric</data>
+      <data key="d10">chunk-a29416a7e3aef43f24a9ab19e3665112</data>
+      <data key="d11">AIC.pdf</data>
+      <data key="d12">1762636870</data>
+      <data key="d13" />
+    </edge>
+    <edge source="TABLE III" target="Analysis">
+      <data key="d7">1.0</data>
+      <data key="d8">The TABLE III event is being analyzed for its evaluation results.</data>
+      <data key="d9">evaluation results,event documentation</data>
+      <data key="d10">chunk-a29416a7e3aef43f24a9ab19e3665112</data>
+      <data key="d11">AIC.pdf</data>
+      <data key="d12">1762636870</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Discarded Content" target="Analysis">
+      <data key="d7">1.0</data>
+      <data key="d8">Discarded Content was categorized as such during the analysis process.</data>
+      <data key="d9">content categorization,discard process</data>
+      <data key="d10">chunk-eba9b95cdc4c3ee9638d12437e55cfea</data>
+      <data key="d11">AIC.pdf</data>
+      <data key="d12">1762636870</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Automatic Issue Classifier: A Transfer Learning Framework for Classifying Issue Reports" target="Research Paper">
+      <data key="d7">1.0</data>
+      <data key="d8">The Automatic Issue Classifier is a research paper that presents a transformer-based approach for classifying GitHub issue reports.</data>
+      <data key="d9">publication,research</data>
+      <data key="d10">chunk-e21c9f03777f97b1c769d40045c4fb6f</data>
+      <data key="d11">AIC.pdf</data>
+      <data key="d12">1762636870</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Automatic Issue Classifier" target="Repository">
+      <data key="d7">1.0</data>
+      <data key="d8">Automatic Issue Classifier is used to automatically assign labels to issues on a repository.</data>
+      <data key="d9">issue labeling,software tool</data>
+      <data key="d10">chunk-738d8975c0fd394f3ad86c6e47f2c837</data>
+      <data key="d11">AIC.pdf</data>
+      <data key="d12">1762636871</data>
+      <data key="d13" />
+    </edge>
+    <edge source="AIC" target="Repository">
+      <data key="d7">1.0</data>
+      <data key="d8">AIC is integrated with a repository where users can create issues.</data>
+      <data key="d9">integration,user interaction</data>
+      <data key="d10">chunk-8af302727f7bee7137fd6c686c2bf223</data>
+      <data key="d11">AIC.pdf</data>
+      <data key="d12">1762636870</data>
+      <data key="d13" />
+    </edge>
+    <edge source="AIC" target="User">
+      <data key="d7">1.0</data>
+      <data key="d8">AIC requires a user to create an issue on a repository integrated with AIC.</data>
+      <data key="d9">issue creation,user interaction</data>
+      <data key="d10">chunk-8af302727f7bee7137fd6c686c2bf223</data>
+      <data key="d11">AIC.pdf</data>
+      <data key="d12">1762636870</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Issue" target="Repository">
+      <data key="d7">1.0</data>
+      <data key="d8">A user creates an issue on a repository.</data>
+      <data key="d9">creation,user interaction</data>
+      <data key="d10">chunk-8af302727f7bee7137fd6c686c2bf223</data>
+      <data key="d11">AIC.pdf</data>
+      <data key="d12">1762636870</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Issue" target="AIC API">
+      <data key="d7">1.0</data>
+      <data key="d8">A new issue sends an event to AIC API.</data>
+      <data key="d9">event trigger,issue management</data>
+      <data key="d10">chunk-8af302727f7bee7137fd6c686c2bf223</data>
+      <data key="d11">AIC.pdf</data>
+      <data key="d12">1762636870</data>
+      <data key="d13" />
+    </edge>
+    <edge source="AIC API" target="Label">
+      <data key="d7">1.0</data>
+      <data key="d8">AIC API assigns a label to the predicted issue.</data>
+      <data key="d9">categorization,issue management</data>
+      <data key="d10">chunk-8af302727f7bee7137fd6c686c2bf223</data>
+      <data key="d11">AIC.pdf</data>
+      <data key="d12">1762636871</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Image Content Analysis" target="Fig. 1">
+      <data key="d7">1.0</data>
+      <data key="d8">The Image Content Analysis report provides a visual representation of the framework in Fig. 1.</data>
+      <data key="d9">description,visual representation</data>
+      <data key="d10">chunk-606004bda14ff333243e15d236785aec</data>
+      <data key="d11">AIC.pdf</data>
+      <data key="d12">1762636871</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Image Content Analysis" target="/home/ubuntu/agentic_rag/data/graph/raganything_storage/AIC/auto/images/ead42c6eb9236478a92f2d7d2dbf3dce50b012f3aaa2adb90814bcaff1461644.jpg">
+      <data key="d7">1.0</data>
+      <data key="d8">The Image Content Analysis report discusses the image file located at /home/ubuntu/agentic_rag/data/graph/raganything_storage/AIC/auto/images/ead42c6eb9236478a92f2d7d2dbf3dce50b012f3aaa2adb90814bcaff1461644.jpg.</data>
+      <data key="d9">analysis,image file</data>
+      <data key="d10">chunk-606004bda14ff333243e15d236785aec</data>
+      <data key="d11">AIC.pdf</data>
+      <data key="d12">1762636871</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Issue Tracking System" target="Software Maintenance">
+      <data key="d7">1.0</data>
+      <data key="d8">Issue tracking systems are used for software maintenance and issue management.</data>
+      <data key="d9">issue management,purpose</data>
+      <data key="d10">chunk-113d9fad8dae4122ba11cdc4471817cf</data>
+      <data key="d11">AIC.pdf</data>
+      <data key="d12">1762636871</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Issue Tracking System" target="Labeling Issue Reports">
+      <data key="d7">1.0</data>
+      <data key="d8">Labeling issue reports is a process used in issue tracking systems for categorizing issue reports.</data>
+      <data key="d9">categorization,process</data>
+      <data key="d10">chunk-113d9fad8dae4122ba11cdc4471817cf</data>
+      <data key="d11">AIC.pdf</data>
+      <data key="d12">1762636871</data>
+      <data key="d13" />
+    </edge>
+    <edge source="USBhost" target="kbhit">
+      <data key="d7">1.0</data>
+      <data key="d8">The USBhost content item can be used with the kbhit method to check if a key has been pressed on a USB keyboard.</data>
+      <data key="d9">functionality,method usage</data>
+      <data key="d10">chunk-826774d1fade6f54d767df535aef4adb</data>
+      <data key="d11">AIC.pdf</data>
+      <data key="d12">1762636871</data>
+      <data key="d13" />
+    </edge>
+    <edge source="USBhost" target="getch">
+      <data key="d7">1.0</data>
+      <data key="d8">The USBhost content item can be used with the getch method to read a single character from a USB keyboard.</data>
+      <data key="d9">functionality,method usage</data>
+      <data key="d10">chunk-826774d1fade6f54d767df535aef4adb</data>
+      <data key="d11">AIC.pdf</data>
+      <data key="d12">1762636871</data>
+      <data key="d13" />
+    </edge>
+    <edge source="USBhost" target="getche">
+      <data key="d7">1.0</data>
+      <data key="d8">The USBhost content item can be used with the getche method to read a single character from a USB keyboard without echoing the character to the console.</data>
+      <data key="d9">functionality,method usage</data>
+      <data key="d10">chunk-826774d1fade6f54d767df535aef4adb</data>
+      <data key="d11">AIC.pdf</data>
+      <data key="d12">1762636871</data>
+      <data key="d13" />
+    </edge>
+    <edge source="USBhost" target="getchar">
+      <data key="d7">1.0</data>
+      <data key="d8">The USBhost content item can be used with the getchar method to read a single character from a USB keyboard.</data>
+      <data key="d9">functionality,method usage</data>
+      <data key="d10">chunk-826774d1fade6f54d767df535aef4adb</data>
+      <data key="d11">AIC.pdf</data>
+      <data key="d12">1762636871</data>
+      <data key="d13" />
+    </edge>
+    <edge source="USBhost" target="gets">
+      <data key="d7">1.0</data>
+      <data key="d8">The USBhost content item can be used with the gets method to read a line of input from a USB keyboard.</data>
+      <data key="d9">functionality,method usage</data>
+      <data key="d10">chunk-826774d1fade6f54d767df535aef4adb</data>
+      <data key="d11">AIC.pdf</data>
+      <data key="d12">1762636871</data>
+      <data key="d13" />
+    </edge>
+    <edge source="USBhost" target="scanf">
+      <data key="d7">1.0</data>
+      <data key="d8">The USBhost content item can be used with the scanf method to read formatted input from a USB keyboard.</data>
+      <data key="d9">functionality,method usage</data>
+      <data key="d10">chunk-826774d1fade6f54d767df535aef4adb</data>
+      <data key="d11">AIC.pdf</data>
+      <data key="d12">1762636871</data>
+      <data key="d13" />
+    </edge>
+    <edge source="USBhost" target="bug">
+      <data key="d7">1.0</data>
+      <data key="d8">The bug concept is associated with the USBhost content item, indicating an issue or error in its functionality.</data>
+      <data key="d9">content item,issue type</data>
+      <data key="d10">chunk-826774d1fade6f54d767df535aef4adb</data>
+      <data key="d11">AIC.pdf</data>
+      <data key="d12">1762636871</data>
+      <data key="d13" />
+    </edge>
+    <edge source="USBhost" target="enhancement">
+      <data key="d7">1.0</data>
+      <data key="d8">The enhancement concept is associated with the USBhost content item, suggesting a potential improvement or additional feature.</data>
+      <data key="d9">content item,suggested improvement</data>
+      <data key="d10">chunk-826774d1fade6f54d767df535aef4adb</data>
+      <data key="d11">AIC.pdf</data>
+      <data key="d12">1762636871</data>
+      <data key="d13" />
+    </edge>
+    <edge source="USBhost" target="kbhit()">
+      <data key="d7">1.0</data>
+      <data key="d8">The USBhost software can read input using the kbhit() function.</data>
+      <data key="d9">functionality,input reading</data>
+      <data key="d10">chunk-826774d1fade6f54d767df535aef4adb</data>
+      <data key="d11">AIC.pdf</data>
+      <data key="d12">1762636871</data>
+      <data key="d13" />
+    </edge>
+    <edge source="USBhost" target="getch()">
+      <data key="d7">1.0</data>
+      <data key="d8">The USBhost software can read input using the getch() function.</data>
+      <data key="d9">functionality,input reading</data>
+      <data key="d10">chunk-826774d1fade6f54d767df535aef4adb</data>
+      <data key="d11">AIC.pdf</data>
+      <data key="d12">1762636871</data>
+      <data key="d13" />
+    </edge>
+    <edge source="USBhost" target="getche()">
+      <data key="d7">1.0</data>
+      <data key="d8">The USBhost software can read input using the getche() function.</data>
+      <data key="d9">functionality,input reading</data>
+      <data key="d10">chunk-826774d1fade6f54d767df535aef4adb</data>
+      <data key="d11">AIC.pdf</data>
+      <data key="d12">1762636871</data>
+      <data key="d13" />
+    </edge>
+    <edge source="USBhost" target="getchar()">
+      <data key="d7">1.0</data>
+      <data key="d8">The USBhost software can read input using the getchar() function.</data>
+      <data key="d9">functionality,input reading</data>
+      <data key="d10">chunk-826774d1fade6f54d767df535aef4adb</data>
+      <data key="d11">AIC.pdf</data>
+      <data key="d12">1762636871</data>
+      <data key="d13" />
+    </edge>
+    <edge source="USBhost" target="gets()">
+      <data key="d7">1.0</data>
+      <data key="d8">The USBhost software can read input using the gets() function.</data>
+      <data key="d9">functionality,input reading</data>
+      <data key="d10">chunk-826774d1fade6f54d767df535aef4adb</data>
+      <data key="d11">AIC.pdf</data>
+      <data key="d12">1762636871</data>
+      <data key="d13" />
+    </edge>
+    <edge source="USBhost" target="scanf()">
+      <data key="d7">1.0</data>
+      <data key="d8">The USBhost software can read input using the scanf() function.</data>
+      <data key="d9">functionality,input reading</data>
+      <data key="d10">chunk-826774d1fade6f54d767df535aef4adb</data>
+      <data key="d11">AIC.pdf</data>
+      <data key="d12">1762636872</data>
+      <data key="d13" />
+    </edge>
+  </graph>
+</graphml>

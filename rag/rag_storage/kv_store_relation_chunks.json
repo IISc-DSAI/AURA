@@ -1,0 +1,173 @@
+{
+  "Hamming Loss<SEP>RoBERTa": {
+    "chunk_ids": [
+      "chunk-896346ad94a0faecc94ba009c495247e"
+    ],
+    "count": 1,
+    "create_time": 1763373491,
+    "update_time": 1763373491,
+    "_id": "Hamming Loss<SEP>RoBERTa"
+  },
+  "Issue Report<SEP>Issue Tracking System": {
+    "chunk_ids": [
+      "chunk-fd6bd9c722e6f59a88d569fa5f8b8b5e"
+    ],
+    "count": 1,
+    "create_time": 1763373491,
+    "update_time": 1763373491,
+    "_id": "Issue Report<SEP>Issue Tracking System"
+  },
+  "M. Z. Malik<SEP>S. Zafar": {
+    "chunk_ids": [
+      "chunk-d2d3063193db8a4f058571b16656181c"
+    ],
+    "count": 1,
+    "create_time": 1763373491,
+    "update_time": 1763373491,
+    "_id": "M. Z. Malik<SEP>S. Zafar"
+  },
+  "GitHub<SEP>Issue Tracking System": {
+    "chunk_ids": [
+      "chunk-fd6bd9c722e6f59a88d569fa5f8b8b5e"
+    ],
+    "count": 1,
+    "create_time": 1763373492,
+    "update_time": 1763373492,
+    "_id": "GitHub<SEP>Issue Tracking System"
+  },
+  "Issue Labels<SEP>Issue Report": {
+    "chunk_ids": [
+      "chunk-fd6bd9c722e6f59a88d569fa5f8b8b5e"
+    ],
+    "count": 1,
+    "create_time": 1763373492,
+    "update_time": 1763373492,
+    "_id": "Issue Labels<SEP>Issue Report"
+  },
+  "G. S. Walia<SEP>S. Zafar": {
+    "chunk_ids": [
+      "chunk-d2d3063193db8a4f058571b16656181c"
+    ],
+    "count": 1,
+    "create_time": 1763373492,
+    "update_time": 1763373492,
+    "_id": "G. S. Walia<SEP>S. Zafar"
+  },
+  "GitHub Issue Data Set<SEP>RoBERTa": {
+    "chunk_ids": [
+      "chunk-d48355777dc3eaa4e8e48795194d6278"
+    ],
+    "count": 1,
+    "create_time": 1763373492,
+    "update_time": 1763373492,
+    "_id": "GitHub Issue Data Set<SEP>RoBERTa"
+  },
+  "Giorgos Karantonis<SEP>Research Problem": {
+    "chunk_ids": [
+      "chunk-f614d74c8b7b226d7a327a364971cdf1"
+    ],
+    "count": 1,
+    "create_time": 1763373493,
+    "update_time": 1763373493,
+    "_id": "Giorgos Karantonis<SEP>Research Problem"
+  },
+  "ACM/IEEE International Symposium on Empirical Software Engineering and Measurement (ESEM)<SEP>S. Zafar": {
+    "chunk_ids": [
+      "chunk-d2d3063193db8a4f058571b16656181c"
+    ],
+    "count": 1,
+    "create_time": 1763373493,
+    "update_time": 1763373493,
+    "_id": "ACM/IEEE International Symposium on Empirical Software Engineering and Measurement (ESEM)<SEP>S. Zafar"
+  },
+  "G. S. Walia<SEP>M. Z. Malik": {
+    "chunk_ids": [
+      "chunk-d2d3063193db8a4f058571b16656181c"
+    ],
+    "count": 1,
+    "create_time": 1763373493,
+    "update_time": 1763373493,
+    "_id": "G. S. Walia<SEP>M. Z. Malik"
+  },
+  "BERT<SEP>RoBERTa": {
+    "chunk_ids": [
+      "chunk-d48355777dc3eaa4e8e48795194d6278"
+    ],
+    "count": 1,
+    "create_time": 1763373494,
+    "update_time": 1763373494,
+    "_id": "BERT<SEP>RoBERTa"
+  },
+  "Automatic Issue Classifier (AIC)<SEP>RoBERTa": {
+    "chunk_ids": [
+      "chunk-d48355777dc3eaa4e8e48795194d6278"
+    ],
+    "count": 1,
+    "create_time": 1763373495,
+    "update_time": 1763373495,
+    "_id": "Automatic Issue Classifier (AIC)<SEP>RoBERTa"
+  },
+  "RoBERTa<SEP>Transfer Learning": {
+    "chunk_ids": [
+      "chunk-d48355777dc3eaa4e8e48795194d6278"
+    ],
+    "count": 1,
+    "create_time": 1763373496,
+    "update_time": 1763373496,
+    "_id": "RoBERTa<SEP>Transfer Learning"
+  },
+  "E46 Convertible<SEP>Torsional Rigidity": {
+    "chunk_ids": [
+      "chunk-ddf19e958b35b7e0a94a108119d75242"
+    ],
+    "count": 1,
+    "create_time": 1763374396,
+    "update_time": 1763374396,
+    "_id": "E46 Convertible<SEP>Torsional Rigidity"
+  },
+  "All-Wheel Drive Running Gear<SEP>E46 Convertible": {
+    "chunk_ids": [
+      "chunk-29836b4eae3744e98e9cdc05e01a4ce0"
+    ],
+    "count": 1,
+    "create_time": 1763374396,
+    "update_time": 1763374396,
+    "_id": "All-Wheel Drive Running Gear<SEP>E46 Convertible"
+  },
+  "E46 Convertible<SEP>Front Suspension": {
+    "chunk_ids": [
+      "chunk-29836b4eae3744e98e9cdc05e01a4ce0"
+    ],
+    "count": 1,
+    "create_time": 1763374396,
+    "update_time": 1763374396,
+    "_id": "E46 Convertible<SEP>Front Suspension"
+  },
+  "E46 Convertible<SEP>Windshield Frame": {
+    "chunk_ids": [
+      "chunk-29836b4eae3744e98e9cdc05e01a4ce0"
+    ],
+    "count": 1,
+    "create_time": 1763374397,
+    "update_time": 1763374397,
+    "_id": "E46 Convertible<SEP>Windshield Frame"
+  },
+  "E46 Convertible<SEP>Floor Pan": {
+    "chunk_ids": [
+      "chunk-29836b4eae3744e98e9cdc05e01a4ce0"
+    ],
+    "count": 1,
+    "create_time": 1763374398,
+    "update_time": 1763374398,
+    "_id": "E46 Convertible<SEP>Floor Pan"
+  },
+  "E46 All-Wheel Drive System<SEP>E46 Convertible": {
+    "chunk_ids": [
+      "chunk-29836b4eae3744e98e9cdc05e01a4ce0"
+    ],
+    "count": 1,
+    "create_time": 1763374399,
+    "update_time": 1763374399,
+    "_id": "E46 All-Wheel Drive System<SEP>E46 Convertible"
+  }
+}
